@@ -131,11 +131,11 @@ def main():
         description="Split images into training, validation, and test datasets"
     )
     
-    source_dir = "./no_df_all"
+    source_dir = "./non_aaa_all"
     output_dir = "."
-    train_folder = "no_df_train"
-    val_folder = "no_df_val"
-    test_folder = "no_df_test"
+    train_folder = "non_aaa_train"
+    val_folder = "non_aaa_val"
+    test_folder = "non_aaa_test"
 
     # Required arguments
     parser.add_argument("--source", default=source_dir, 
