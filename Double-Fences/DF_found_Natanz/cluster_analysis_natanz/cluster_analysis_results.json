@@ -1,0 +1,757 @@
+{
+  "folder": "../IMINT-Images/Double-Fences/DF_found_33.725500_51.725800_R30.0km_T1.0km_gpt-4o-2024-08-06_2811-total-images_Oct-24-2025",
+  "total_detections": 107,
+  "num_clusters": 4,
+  "clustering_params": {
+    "eps_km": 5.0,
+    "min_samples": 2
+  },
+  "results": [
+    {
+      "cluster_id": 1,
+      "center_lat": 33.8917236,
+      "center_lon": 51.586253400000004,
+      "radius_km": 19.278796041680057,
+      "num_detections": 50,
+      "detections": [
+        {
+          "lat": 33.92446,
+          "lon": 51.57459,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.92446_51.57459_1.0km.png"
+        },
+        {
+          "lat": 33.88829,
+          "lon": 51.60699,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.88829_51.60699_1.0km.png"
+        },
+        {
+          "lat": 33.8702,
+          "lon": 51.6718,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.87020_51.67180_1.0km.png"
+        },
+        {
+          "lat": 33.86116,
+          "lon": 51.7042,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.86116_51.70420_1.0km.png"
+        },
+        {
+          "lat": 33.8702,
+          "lon": 51.63939,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.87020_51.63939_1.0km.png"
+        },
+        {
+          "lat": 33.92446,
+          "lon": 51.55299,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.92446_51.55299_1.0km.png"
+        },
+        {
+          "lat": 33.84307,
+          "lon": 51.46658,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.84307_51.46658_1.0km.png"
+        },
+        {
+          "lat": 33.83402,
+          "lon": 51.46658,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.83402_51.46658_1.0km.png"
+        },
+        {
+          "lat": 33.92446,
+          "lon": 51.52058,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.92446_51.52058_1.0km.png"
+        },
+        {
+          "lat": 33.93351,
+          "lon": 51.56379,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.93351_51.56379_1.0km.png"
+        },
+        {
+          "lat": 33.90637,
+          "lon": 51.55299,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.90637_51.55299_1.0km.png"
+        },
+        {
+          "lat": 33.87924,
+          "lon": 51.6718,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.87924_51.67180_1.0km.png"
+        },
+        {
+          "lat": 33.85211,
+          "lon": 51.50978,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.85211_51.50978_1.0km.png"
+        },
+        {
+          "lat": 33.88829,
+          "lon": 51.57459,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.88829_51.57459_1.0km.png"
+        },
+        {
+          "lat": 33.93351,
+          "lon": 51.58539,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.93351_51.58539_1.0km.png"
+        },
+        {
+          "lat": 33.91542,
+          "lon": 51.61779,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.91542_51.61779_1.0km.png"
+        },
+        {
+          "lat": 33.88829,
+          "lon": 51.61779,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.88829_51.61779_1.0km.png"
+        },
+        {
+          "lat": 33.86116,
+          "lon": 51.6934,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.86116_51.69340_1.0km.png"
+        },
+        {
+          "lat": 33.88829,
+          "lon": 51.52058,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.88829_51.52058_1.0km.png"
+        },
+        {
+          "lat": 33.8702,
+          "lon": 51.65019,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.87020_51.65019_1.0km.png"
+        },
+        {
+          "lat": 33.8702,
+          "lon": 51.715,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.87020_51.71500_1.0km.png"
+        },
+        {
+          "lat": 33.89733,
+          "lon": 51.53139,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.89733_51.53139_1.0km.png"
+        },
+        {
+          "lat": 33.89733,
+          "lon": 51.52058,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.89733_51.52058_1.0km.png"
+        },
+        {
+          "lat": 33.89733,
+          "lon": 51.65019,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.89733_51.65019_1.0km.png"
+        },
+        {
+          "lat": 33.89733,
+          "lon": 51.62859,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.89733_51.62859_1.0km.png"
+        },
+        {
+          "lat": 33.8702,
+          "lon": 51.47738,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.87020_51.47738_1.0km.png"
+        },
+        {
+          "lat": 33.87924,
+          "lon": 51.60699,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.87924_51.60699_1.0km.png"
+        },
+        {
+          "lat": 33.84307,
+          "lon": 51.715,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.84307_51.71500_1.0km.png"
+        },
+        {
+          "lat": 33.91542,
+          "lon": 51.59619,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.91542_51.59619_1.0km.png"
+        },
+        {
+          "lat": 33.89733,
+          "lon": 51.58539,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.89733_51.58539_1.0km.png"
+        },
+        {
+          "lat": 33.93351,
+          "lon": 51.54219,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.93351_51.54219_1.0km.png"
+        },
+        {
+          "lat": 33.91542,
+          "lon": 51.58539,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.91542_51.58539_1.0km.png"
+        },
+        {
+          "lat": 33.93351,
+          "lon": 51.55299,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.93351_51.55299_1.0km.png"
+        },
+        {
+          "lat": 33.90637,
+          "lon": 51.59619,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.90637_51.59619_1.0km.png"
+        },
+        {
+          "lat": 33.95159,
+          "lon": 51.58539,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.95159_51.58539_1.0km.png"
+        },
+        {
+          "lat": 33.89733,
+          "lon": 51.56379,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.89733_51.56379_1.0km.png"
+        },
+        {
+          "lat": 33.89733,
+          "lon": 51.50978,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.89733_51.50978_1.0km.png"
+        },
+        {
+          "lat": 33.87924,
+          "lon": 51.52058,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.87924_51.52058_1.0km.png"
+        },
+        {
+          "lat": 33.90637,
+          "lon": 51.56379,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.90637_51.56379_1.0km.png"
+        },
+        {
+          "lat": 33.88829,
+          "lon": 51.56379,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.88829_51.56379_1.0km.png"
+        },
+        {
+          "lat": 33.88829,
+          "lon": 51.50978,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.88829_51.50978_1.0km.png"
+        },
+        {
+          "lat": 33.92446,
+          "lon": 51.59619,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.92446_51.59619_1.0km.png"
+        },
+        {
+          "lat": 33.84307,
+          "lon": 51.48818,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.84307_51.48818_1.0km.png"
+        },
+        {
+          "lat": 33.90637,
+          "lon": 51.63939,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.90637_51.63939_1.0km.png"
+        },
+        {
+          "lat": 33.82498,
+          "lon": 51.7582,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.82498_51.75820_1.0km.png"
+        },
+        {
+          "lat": 33.87924,
+          "lon": 51.47738,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.87924_51.47738_1.0km.png"
+        },
+        {
+          "lat": 33.87924,
+          "lon": 51.54219,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.87924_51.54219_1.0km.png"
+        },
+        {
+          "lat": 33.88829,
+          "lon": 51.6826,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.88829_51.68260_1.0km.png"
+        },
+        {
+          "lat": 33.89733,
+          "lon": 51.661,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.89733_51.66100_1.0km.png"
+        },
+        {
+          "lat": 33.92446,
+          "lon": 51.58539,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.92446_51.58539_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows a runway and surrounding barren terrain with scattered tracks and features, but no clear perimeter walls, fences, or a defined boundary enclosing a group of structures.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_33.725500_51.725800_R30.0km_T1.0km_gpt-4o-2024-08-06_2811-total-images_Oct-24-2025/cluster_analysis/cluster_1_33.891724_51.586253_2.0km.png",
+      "timestamp": "2025-11-14T01:55:02.886318"
+    },
+    {
+      "cluster_id": 2,
+      "center_lat": 33.75489194444444,
+      "center_lon": 51.81280666666667,
+      "radius_km": 19.48197532168963,
+      "num_detections": 36,
+      "detections": [
+        {
+          "lat": 33.70741,
+          "lon": 51.90941,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.70741_51.90941_1.0km.png"
+        },
+        {
+          "lat": 33.76167,
+          "lon": 51.82301,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.76167_51.82301_1.0km.png"
+        },
+        {
+          "lat": 33.70741,
+          "lon": 51.7474,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.70741_51.74740_1.0km.png"
+        },
+        {
+          "lat": 33.7255,
+          "lon": 51.7258,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.72550_51.72580_1.0km.png"
+        },
+        {
+          "lat": 33.70741,
+          "lon": 51.93102,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.70741_51.93102_1.0km.png"
+        },
+        {
+          "lat": 33.74359,
+          "lon": 51.7042,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.74359_51.70420_1.0km.png"
+        },
+        {
+          "lat": 33.69837,
+          "lon": 51.7366,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.69837_51.73660_1.0km.png"
+        },
+        {
+          "lat": 33.70741,
+          "lon": 51.80141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.70741_51.80141_1.0km.png"
+        },
+        {
+          "lat": 33.8702,
+          "lon": 51.87701,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.87020_51.87701_1.0km.png"
+        },
+        {
+          "lat": 33.76167,
+          "lon": 51.769,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.76167_51.76900_1.0km.png"
+        },
+        {
+          "lat": 33.71646,
+          "lon": 51.92021,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.71646_51.92021_1.0km.png"
+        },
+        {
+          "lat": 33.7255,
+          "lon": 51.7366,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.72550_51.73660_1.0km.png"
+        },
+        {
+          "lat": 33.69837,
+          "lon": 51.85541,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.69837_51.85541_1.0km.png"
+        },
+        {
+          "lat": 33.81594,
+          "lon": 51.81221,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.81594_51.81221_1.0km.png"
+        },
+        {
+          "lat": 33.85211,
+          "lon": 51.85541,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.85211_51.85541_1.0km.png"
+        },
+        {
+          "lat": 33.7255,
+          "lon": 51.83381,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.72550_51.83381_1.0km.png"
+        },
+        {
+          "lat": 33.79785,
+          "lon": 51.81221,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.79785_51.81221_1.0km.png"
+        },
+        {
+          "lat": 33.89733,
+          "lon": 51.89861,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.89733_51.89861_1.0km.png"
+        },
+        {
+          "lat": 33.75263,
+          "lon": 51.87701,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.75263_51.87701_1.0km.png"
+        },
+        {
+          "lat": 33.74359,
+          "lon": 51.7906,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.74359_51.79060_1.0km.png"
+        },
+        {
+          "lat": 33.77072,
+          "lon": 51.83381,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.77072_51.83381_1.0km.png"
+        },
+        {
+          "lat": 33.71646,
+          "lon": 51.84461,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.71646_51.84461_1.0km.png"
+        },
+        {
+          "lat": 33.70741,
+          "lon": 51.89861,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.70741_51.89861_1.0km.png"
+        },
+        {
+          "lat": 33.79785,
+          "lon": 51.82301,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.79785_51.82301_1.0km.png"
+        },
+        {
+          "lat": 33.74359,
+          "lon": 51.7366,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.74359_51.73660_1.0km.png"
+        },
+        {
+          "lat": 33.77072,
+          "lon": 51.7906,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.77072_51.79060_1.0km.png"
+        },
+        {
+          "lat": 33.74359,
+          "lon": 51.7798,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.74359_51.77980_1.0km.png"
+        },
+        {
+          "lat": 33.7255,
+          "lon": 51.715,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.72550_51.71500_1.0km.png"
+        },
+        {
+          "lat": 33.80689,
+          "lon": 51.83381,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.80689_51.83381_1.0km.png"
+        },
+        {
+          "lat": 33.75263,
+          "lon": 51.81221,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.75263_51.81221_1.0km.png"
+        },
+        {
+          "lat": 33.84307,
+          "lon": 51.81221,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.84307_51.81221_1.0km.png"
+        },
+        {
+          "lat": 33.77976,
+          "lon": 51.83381,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.77976_51.83381_1.0km.png"
+        },
+        {
+          "lat": 33.75263,
+          "lon": 51.7906,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.75263_51.79060_1.0km.png"
+        },
+        {
+          "lat": 33.69837,
+          "lon": 51.80141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.69837_51.80141_1.0km.png"
+        },
+        {
+          "lat": 33.71646,
+          "lon": 51.715,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.71646_51.71500_1.0km.png"
+        },
+        {
+          "lat": 33.73454,
+          "lon": 51.82301,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.73454_51.82301_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the lower-left quadrant there is a large rectangular area with straight perimeter lines forming a clear boundary/berm, enclosing several structures and internal roads, with what appears to be an entry point. There are also faint rectilinear boundaries nearby.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_33.725500_51.725800_R30.0km_T1.0km_gpt-4o-2024-08-06_2811-total-images_Oct-24-2025/cluster_analysis/cluster_2_33.754892_51.812807_2.0km.png",
+      "timestamp": "2025-11-14T01:55:12.079111"
+    },
+    {
+      "cluster_id": 3,
+      "center_lat": 33.62149599999999,
+      "center_lon": 51.978539999999995,
+      "radius_km": 8.437946958478634,
+      "num_detections": 10,
+      "detections": [
+        {
+          "lat": 33.55367,
+          "lon": 51.96342,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.55367_51.96342_1.0km.png"
+        },
+        {
+          "lat": 33.63506,
+          "lon": 51.99582,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.63506_51.99582_1.0km.png"
+        },
+        {
+          "lat": 33.63506,
+          "lon": 51.95262,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.63506_51.95262_1.0km.png"
+        },
+        {
+          "lat": 33.63506,
+          "lon": 52.02822,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.63506_52.02822_1.0km.png"
+        },
+        {
+          "lat": 33.66219,
+          "lon": 51.98502,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.66219_51.98502_1.0km.png"
+        },
+        {
+          "lat": 33.61698,
+          "lon": 51.98502,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.61698_51.98502_1.0km.png"
+        },
+        {
+          "lat": 33.67124,
+          "lon": 51.96342,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.67124_51.96342_1.0km.png"
+        },
+        {
+          "lat": 33.62602,
+          "lon": 51.96342,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.62602_51.96342_1.0km.png"
+        },
+        {
+          "lat": 33.58984,
+          "lon": 51.96342,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.58984_51.96342_1.0km.png"
+        },
+        {
+          "lat": 33.58984,
+          "lon": 51.98502,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.58984_51.98502_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows open desert with linear roads or tracks and a canal-like feature. There are no clear perimeter walls or fences forming a closed boundary around structures that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_33.725500_51.725800_R30.0km_T1.0km_gpt-4o-2024-08-06_2811-total-images_Oct-24-2025/cluster_analysis/cluster_3_33.621496_51.978540_2.0km.png",
+      "timestamp": "2025-11-14T01:55:23.513592"
+    },
+    {
+      "cluster_id": 4,
+      "center_lat": 33.63506333333333,
+      "center_lon": 51.7438,
+      "radius_km": 2.5385713176789984,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 33.63506,
+          "lon": 51.7366,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.63506_51.73660_1.0km.png"
+        },
+        {
+          "lat": 33.61698,
+          "lon": 51.7474,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.61698_51.74740_1.0km.png"
+        },
+        {
+          "lat": 33.65315,
+          "lon": 51.7474,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_33.65315_51.74740_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I don\u2019t see any walled or fenced perimeters, rectangular outlines, clusters of buildings, or gate/road checkpoints. The image appears to show natural terrain with faint tracks and erosion patterns, not an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_33.725500_51.725800_R30.0km_T1.0km_gpt-4o-2024-08-06_2811-total-images_Oct-24-2025/cluster_analysis/cluster_4_33.635063_51.743800_2.0km.png",
+      "timestamp": "2025-11-14T01:55:32.312019"
+    }
+  ],
+  "timestamp": "2025-11-14T01:55:32.517666"
+}
