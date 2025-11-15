@@ -1,18 +1,17 @@
 {
   "folder": "../IMINT-Images/Double-Fences/DF_found_Fordow",
   "total_detections": 246,
-  "num_clusters": 1,
+  "num_clusters": 73,
   "clustering_params": {
-    "eps_km": 5.0,
-    "min_samples": 2
+    "max_radius_km": 5.0
   },
   "results": [
     {
       "cluster_id": 1,
-      "center_lat": 34.866375103734434,
-      "center_lon": 50.99364655601659,
-      "radius_km": 33.495569432234724,
-      "num_detections": 241,
+      "center_lat": 34.882690000000004,
+      "center_lon": 51.25215999999999,
+      "radius_km": 3.0066849641110243,
+      "num_detections": 5,
       "detections": [
         {
           "lat": 34.89354,
@@ -22,977 +21,11 @@
           "filename": "DF_34.89354_51.22807_1.0km.png"
         },
         {
-          "lat": 34.94781,
-          "lon": 51.17331,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.94781_51.17331_1.0km.png"
-        },
-        {
-          "lat": 34.92067,
-          "lon": 51.0419,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92067_51.04190_1.0km.png"
-        },
-        {
-          "lat": 34.74884,
-          "lon": 50.87764,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.74884_50.87764_1.0km.png"
-        },
-        {
-          "lat": 34.80311,
-          "lon": 50.75718,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.80311_50.75718_1.0km.png"
-        },
-        {
-          "lat": 34.64936,
-          "lon": 51.00905,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.64936_51.00905_1.0km.png"
-        },
-        {
-          "lat": 35.04729,
-          "lon": 51.15141,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.04729_51.15141_1.0km.png"
-        },
-        {
-          "lat": 34.86641,
-          "lon": 50.84479,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.86641_50.84479_1.0km.png"
-        },
-        {
-          "lat": 35.11059,
-          "lon": 50.87764,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.11059_50.87764_1.0km.png"
-        },
-        {
-          "lat": 34.77598,
-          "lon": 50.9543,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.77598_50.95430_1.0km.png"
-        },
-        {
-          "lat": 34.68554,
-          "lon": 50.80098,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.68554_50.80098_1.0km.png"
-        },
-        {
-          "lat": 35.09251,
-          "lon": 50.85574,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.09251_50.85574_1.0km.png"
-        },
-        {
-          "lat": 34.72171,
-          "lon": 50.83384,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.72171_50.83384_1.0km.png"
-        },
-        {
-          "lat": 34.77598,
-          "lon": 51.03095,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.77598_51.03095_1.0km.png"
-        },
-        {
-          "lat": 35.00207,
-          "lon": 50.81193,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.00207_50.81193_1.0km.png"
-        },
-        {
-          "lat": 34.66745,
-          "lon": 50.94335,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.66745_50.94335_1.0km.png"
-        },
-        {
-          "lat": 35.07442,
-          "lon": 51.15141,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.07442_51.15141_1.0km.png"
-        },
-        {
-          "lat": 34.84833,
-          "lon": 51.16236,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.84833_51.16236_1.0km.png"
-        },
-        {
-          "lat": 35.10155,
-          "lon": 51.12951,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.10155_51.12951_1.0km.png"
-        },
-        {
-          "lat": 35.09251,
-          "lon": 50.86669,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.09251_50.86669_1.0km.png"
-        },
-        {
-          "lat": 35.04729,
-          "lon": 50.88859,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.04729_50.88859_1.0km.png"
-        },
-        {
-          "lat": 35.05633,
-          "lon": 50.79003,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.05633_50.79003_1.0km.png"
-        },
-        {
-          "lat": 34.82119,
-          "lon": 50.70243,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.82119_50.70243_1.0km.png"
-        },
-        {
-          "lat": 34.68554,
-          "lon": 51.03095,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.68554_51.03095_1.0km.png"
-        },
-        {
-          "lat": 34.97494,
-          "lon": 51.27187,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.97494_51.27187_1.0km.png"
-        },
-        {
-          "lat": 34.70363,
-          "lon": 50.76813,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.70363_50.76813_1.0km.png"
-        },
-        {
-          "lat": 34.93876,
-          "lon": 51.28282,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.93876_51.28282_1.0km.png"
-        },
-        {
-          "lat": 34.86641,
-          "lon": 50.74623,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.86641_50.74623_1.0km.png"
-        },
-        {
-          "lat": 35.02016,
-          "lon": 51.15141,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.02016_51.15141_1.0km.png"
-        },
-        {
-          "lat": 34.97494,
-          "lon": 50.91049,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.97494_50.91049_1.0km.png"
-        },
-        {
-          "lat": 35.09251,
-          "lon": 51.07476,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.09251_51.07476_1.0km.png"
-        },
-        {
-          "lat": 34.71267,
-          "lon": 51.18427,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.71267_51.18427_1.0km.png"
-        },
-        {
-          "lat": 34.65841,
-          "lon": 51.10761,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.65841_51.10761_1.0km.png"
-        },
-        {
-          "lat": 34.92067,
-          "lon": 51.24997,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92067_51.24997_1.0km.png"
-        },
-        {
-          "lat": 34.93876,
-          "lon": 50.79003,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.93876_50.79003_1.0km.png"
-        },
-        {
-          "lat": 35.01111,
-          "lon": 50.81193,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.01111_50.81193_1.0km.png"
-        },
-        {
-          "lat": 34.99302,
-          "lon": 50.85574,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.99302_50.85574_1.0km.png"
-        },
-        {
-          "lat": 35.07442,
-          "lon": 50.87764,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.07442_50.87764_1.0km.png"
-        },
-        {
-          "lat": 34.87546,
-          "lon": 51.14046,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.87546_51.14046_1.0km.png"
-        },
-        {
-          "lat": 35.09251,
-          "lon": 51.05285,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.09251_51.05285_1.0km.png"
-        },
-        {
-          "lat": 34.86641,
-          "lon": 51.12951,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.86641_51.12951_1.0km.png"
-        },
-        {
-          "lat": 35.07442,
-          "lon": 50.84479,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.07442_50.84479_1.0km.png"
-        },
-        {
-          "lat": 34.97494,
-          "lon": 50.81193,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.97494_50.81193_1.0km.png"
-        },
-        {
-          "lat": 34.90259,
-          "lon": 50.82289,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.90259_50.82289_1.0km.png"
-        },
-        {
-          "lat": 34.85737,
-          "lon": 50.85574,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.85737_50.85574_1.0km.png"
-        },
-        {
-          "lat": 34.90259,
-          "lon": 50.93239,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.90259_50.93239_1.0km.png"
-        },
-        {
-          "lat": 34.83024,
-          "lon": 50.91049,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.83024_50.91049_1.0km.png"
-        },
-        {
-          "lat": 34.92067,
-          "lon": 51.18427,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92067_51.18427_1.0km.png"
-        },
-        {
-          "lat": 34.91163,
-          "lon": 50.94335,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.91163_50.94335_1.0km.png"
-        },
-        {
-          "lat": 35.10155,
-          "lon": 50.87764,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.10155_50.87764_1.0km.png"
-        },
-        {
-          "lat": 34.71267,
-          "lon": 51.00905,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.71267_51.00905_1.0km.png"
-        },
-        {
-          "lat": 34.84833,
-          "lon": 51.26092,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.84833_51.26092_1.0km.png"
-        },
-        {
-          "lat": 34.83928,
-          "lon": 51.17331,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.83928_51.17331_1.0km.png"
-        },
-        {
-          "lat": 34.80311,
-          "lon": 51.21712,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.80311_51.21712_1.0km.png"
-        },
-        {
-          "lat": 34.84833,
-          "lon": 51.22807,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.84833_51.22807_1.0km.png"
-        },
-        {
-          "lat": 34.70363,
-          "lon": 50.9981,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.70363_50.99810_1.0km.png"
-        },
-        {
-          "lat": 34.77598,
-          "lon": 50.9981,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.77598_50.99810_1.0km.png"
-        },
-        {
-          "lat": 34.92972,
-          "lon": 51.12951,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92972_51.12951_1.0km.png"
-        },
-        {
-          "lat": 35.0292,
-          "lon": 50.85574,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.02920_50.85574_1.0km.png"
-        },
-        {
-          "lat": 34.93876,
-          "lon": 51.31568,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.93876_51.31568_1.0km.png"
-        },
-        {
-          "lat": 34.63128,
-          "lon": 51.03095,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.63128_51.03095_1.0km.png"
-        },
-        {
-          "lat": 34.69458,
-          "lon": 50.9543,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.69458_50.95430_1.0km.png"
-        },
-        {
-          "lat": 34.79406,
-          "lon": 50.86669,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.79406_50.86669_1.0km.png"
-        },
-        {
-          "lat": 35.11059,
-          "lon": 50.88859,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.11059_50.88859_1.0km.png"
-        },
-        {
-          "lat": 35.02016,
-          "lon": 50.84479,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.02016_50.84479_1.0km.png"
-        },
-        {
-          "lat": 34.80311,
-          "lon": 50.74623,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.80311_50.74623_1.0km.png"
-        },
-        {
-          "lat": 34.67649,
-          "lon": 50.83384,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.67649_50.83384_1.0km.png"
-        },
-        {
-          "lat": 34.90259,
-          "lon": 50.72433,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.90259_50.72433_1.0km.png"
-        },
-        {
-          "lat": 34.96589,
-          "lon": 50.76813,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.96589_50.76813_1.0km.png"
-        },
-        {
-          "lat": 34.99302,
-          "lon": 50.94335,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.99302_50.94335_1.0km.png"
-        },
-        {
-          "lat": 34.92972,
-          "lon": 50.81193,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92972_50.81193_1.0km.png"
-        },
-        {
-          "lat": 34.89354,
-          "lon": 50.77908,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.89354_50.77908_1.0km.png"
-        },
-        {
-          "lat": 34.92972,
-          "lon": 50.75718,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92972_50.75718_1.0km.png"
-        },
-        {
-          "lat": 34.68554,
-          "lon": 50.89954,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.68554_50.89954_1.0km.png"
-        },
-        {
-          "lat": 34.76693,
-          "lon": 51.0419,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.76693_51.04190_1.0km.png"
-        },
-        {
-          "lat": 34.91163,
-          "lon": 51.0419,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.91163_51.04190_1.0km.png"
-        },
-        {
-          "lat": 34.64032,
-          "lon": 51.00905,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.64032_51.00905_1.0km.png"
-        },
-        {
-          "lat": 34.82119,
-          "lon": 51.14046,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.82119_51.14046_1.0km.png"
-        },
-        {
-          "lat": 34.97494,
-          "lon": 50.82289,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.97494_50.82289_1.0km.png"
-        },
-        {
-          "lat": 35.11964,
-          "lon": 51.0419,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.11964_51.04190_1.0km.png"
-        },
-        {
           "lat": 34.87546,
           "lon": 51.24997,
           "distance": 1.0,
           "name": "DF",
           "filename": "DF_34.87546_51.24997_1.0km.png"
-        },
-        {
-          "lat": 35.05633,
-          "lon": 51.15141,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.05633_51.15141_1.0km.png"
-        },
-        {
-          "lat": 34.92972,
-          "lon": 51.30473,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92972_51.30473_1.0km.png"
-        },
-        {
-          "lat": 34.91163,
-          "lon": 51.24997,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.91163_51.24997_1.0km.png"
-        },
-        {
-          "lat": 34.84833,
-          "lon": 51.14046,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.84833_51.14046_1.0km.png"
-        },
-        {
-          "lat": 35.08346,
-          "lon": 51.16236,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.08346_51.16236_1.0km.png"
-        },
-        {
-          "lat": 34.69458,
-          "lon": 51.16236,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.69458_51.16236_1.0km.png"
-        },
-        {
-          "lat": 35.11964,
-          "lon": 51.02,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.11964_51.02000_1.0km.png"
-        },
-        {
-          "lat": 34.79406,
-          "lon": 51.19522,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.79406_51.19522_1.0km.png"
-        },
-        {
-          "lat": 34.77598,
-          "lon": 51.22807,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.77598_51.22807_1.0km.png"
-        },
-        {
-          "lat": 34.79406,
-          "lon": 51.03095,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.79406_51.03095_1.0km.png"
-        },
-        {
-          "lat": 34.84833,
-          "lon": 50.9543,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.84833_50.95430_1.0km.png"
-        },
-        {
-          "lat": 34.64936,
-          "lon": 51.08571,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.64936_51.08571_1.0km.png"
-        },
-        {
-          "lat": 35.01111,
-          "lon": 51.15141,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.01111_51.15141_1.0km.png"
-        },
-        {
-          "lat": 34.91163,
-          "lon": 51.18427,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.91163_51.18427_1.0km.png"
-        },
-        {
-          "lat": 34.79406,
-          "lon": 50.9981,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.79406_50.99810_1.0km.png"
-        },
-        {
-          "lat": 34.92067,
-          "lon": 50.68052,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92067_50.68052_1.0km.png"
-        },
-        {
-          "lat": 34.92067,
-          "lon": 51.08571,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92067_51.08571_1.0km.png"
-        },
-        {
-          "lat": 34.89354,
-          "lon": 51.14046,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.89354_51.14046_1.0km.png"
-        },
-        {
-          "lat": 34.80311,
-          "lon": 50.93239,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.80311_50.93239_1.0km.png"
-        },
-        {
-          "lat": 34.63128,
-          "lon": 51.0419,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.63128_51.04190_1.0km.png"
-        },
-        {
-          "lat": 34.89354,
-          "lon": 50.9981,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.89354_50.99810_1.0km.png"
-        },
-        {
-          "lat": 34.78502,
-          "lon": 51.22807,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.78502_51.22807_1.0km.png"
-        },
-        {
-          "lat": 34.66745,
-          "lon": 50.83384,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.66745_50.83384_1.0km.png"
-        },
-        {
-          "lat": 34.85737,
-          "lon": 51.23902,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.85737_51.23902_1.0km.png"
-        },
-        {
-          "lat": 34.65841,
-          "lon": 50.89954,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.65841_50.89954_1.0km.png"
-        },
-        {
-          "lat": 35.00207,
-          "lon": 51.15141,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.00207_51.15141_1.0km.png"
-        },
-        {
-          "lat": 34.8845,
-          "lon": 50.81193,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.88450_50.81193_1.0km.png"
-        },
-        {
-          "lat": 34.63128,
-          "lon": 51.05285,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.63128_51.05285_1.0km.png"
-        },
-        {
-          "lat": 34.63128,
-          "lon": 51.02,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.63128_51.02000_1.0km.png"
-        },
-        {
-          "lat": 34.64936,
-          "lon": 51.10761,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.64936_51.10761_1.0km.png"
-        },
-        {
-          "lat": 34.92067,
-          "lon": 51.10761,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92067_51.10761_1.0km.png"
-        },
-        {
-          "lat": 34.76693,
-          "lon": 50.85574,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.76693_50.85574_1.0km.png"
-        },
-        {
-          "lat": 34.67649,
-          "lon": 51.16236,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.67649_51.16236_1.0km.png"
-        },
-        {
-          "lat": 34.68554,
-          "lon": 50.85574,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.68554_50.85574_1.0km.png"
-        },
-        {
-          "lat": 34.71267,
-          "lon": 50.80098,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.71267_50.80098_1.0km.png"
-        },
-        {
-          "lat": 34.90259,
-          "lon": 51.28282,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.90259_51.28282_1.0km.png"
-        },
-        {
-          "lat": 34.90259,
-          "lon": 50.9762,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.90259_50.97620_1.0km.png"
-        },
-        {
-          "lat": 34.98398,
-          "lon": 50.89954,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.98398_50.89954_1.0km.png"
-        },
-        {
-          "lat": 34.92972,
-          "lon": 50.79003,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92972_50.79003_1.0km.png"
-        },
-        {
-          "lat": 34.85737,
-          "lon": 51.14046,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.85737_51.14046_1.0km.png"
-        },
-        {
-          "lat": 34.79406,
-          "lon": 50.82289,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.79406_50.82289_1.0km.png"
-        },
-        {
-          "lat": 35.10155,
-          "lon": 51.05285,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.10155_51.05285_1.0km.png"
-        },
-        {
-          "lat": 34.96589,
-          "lon": 50.82289,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.96589_50.82289_1.0km.png"
-        },
-        {
-          "lat": 34.92067,
-          "lon": 50.82289,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92067_50.82289_1.0km.png"
-        },
-        {
-          "lat": 34.94781,
-          "lon": 50.77908,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.94781_50.77908_1.0km.png"
-        },
-        {
-          "lat": 34.69458,
-          "lon": 50.81193,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.69458_50.81193_1.0km.png"
-        },
-        {
-          "lat": 34.7398,
-          "lon": 51.18427,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.73980_51.18427_1.0km.png"
-        },
-        {
-          "lat": 35.03824,
-          "lon": 50.75718,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.03824_50.75718_1.0km.png"
-        },
-        {
-          "lat": 35.03824,
-          "lon": 50.81193,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.03824_50.81193_1.0km.png"
-        },
-        {
-          "lat": 34.93876,
-          "lon": 50.80098,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.93876_50.80098_1.0km.png"
-        },
-        {
-          "lat": 34.77598,
-          "lon": 51.21712,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.77598_51.21712_1.0km.png"
-        },
-        {
-          "lat": 34.89354,
-          "lon": 50.82289,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.89354_50.82289_1.0km.png"
-        },
-        {
-          "lat": 35.09251,
-          "lon": 50.87764,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.09251_50.87764_1.0km.png"
-        },
-        {
-          "lat": 34.97494,
-          "lon": 50.80098,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.97494_50.80098_1.0km.png"
-        },
-        {
-          "lat": 34.78502,
-          "lon": 50.81193,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.78502_50.81193_1.0km.png"
-        },
-        {
-          "lat": 34.95685,
-          "lon": 50.86669,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.95685_50.86669_1.0km.png"
-        },
-        {
-          "lat": 34.98398,
-          "lon": 50.81193,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.98398_50.81193_1.0km.png"
-        },
-        {
-          "lat": 34.90259,
-          "lon": 51.16236,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.90259_51.16236_1.0km.png"
-        },
-        {
-          "lat": 35.0292,
-          "lon": 51.15141,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.02920_51.15141_1.0km.png"
         },
         {
           "lat": 34.8845,
@@ -1002,83 +35,6 @@
           "filename": "DF_34.88450_51.26092_1.0km.png"
         },
         {
-          "lat": 34.90259,
-          "lon": 50.70243,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.90259_50.70243_1.0km.png"
-        },
-        {
-          "lat": 34.80311,
-          "lon": 51.23902,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.80311_51.23902_1.0km.png"
-        },
-        {
-          "lat": 34.83024,
-          "lon": 50.96525,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.83024_50.96525_1.0km.png"
-        },
-        {
-          "lat": 35.06537,
-          "lon": 50.92144,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.06537_50.92144_1.0km.png"
-        },
-        {
-          "lat": 34.74884,
-          "lon": 51.18427,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.74884_51.18427_1.0km.png"
-        },
-        {
-          "lat": 34.82119,
-          "lon": 50.92144,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.82119_50.92144_1.0km.png"
-        },
-        {
-          "lat": 34.92972,
-          "lon": 50.86669,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92972_50.86669_1.0km.png"
-        },
-        {
-          "lat": 34.63128,
-          "lon": 50.98715,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.63128_50.98715_1.0km.png"
-        },
-        {
-          "lat": 34.70363,
-          "lon": 51.17331,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.70363_51.17331_1.0km.png"
-        },
-        {
-          "lat": 34.67649,
-          "lon": 50.9762,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.67649_50.97620_1.0km.png"
-        },
-        {
-          "lat": 35.08346,
-          "lon": 51.09666,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.08346_51.09666_1.0km.png"
-        },
-        {
           "lat": 34.86641,
           "lon": 51.24997,
           "distance": 1.0,
@@ -1086,25 +42,140 @@
           "filename": "DF_34.86641_51.24997_1.0km.png"
         },
         {
-          "lat": 34.95685,
-          "lon": 51.26092,
+          "lat": 34.89354,
+          "lon": 51.27187,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.95685_51.26092_1.0km.png"
+          "filename": "DF_34.89354_51.27187_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The image shows mostly natural desert terrain with a linear road/track; no clear walled or fenced perimeter that would indicate an enclosed compound is visible.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_1_34.882690_51.252160_5.00km.png",
+      "timestamp": "2025-11-14T17:27:54.241002"
+    },
+    {
+      "cluster_id": 2,
+      "center_lat": 34.935750000000006,
+      "center_lon": 51.14776,
+      "radius_km": 3.187389199734248,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.94781,
+          "lon": 51.17331,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.94781_51.17331_1.0km.png"
         },
         {
-          "lat": 34.72171,
-          "lon": 51.20617,
+          "lat": 34.92972,
+          "lon": 51.12951,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.72171_51.20617_1.0km.png"
+          "filename": "DF_34.92972_51.12951_1.0km.png"
         },
         {
-          "lat": 34.83928,
-          "lon": 51.19522,
+          "lat": 34.92972,
+          "lon": 51.14046,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.83928_51.19522_1.0km.png"
+          "filename": "DF_34.92972_51.14046_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows a straight road through barren terrain with no visible perimeter walls, fencing, or clusters of buildings that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_2_34.935750_51.147760_5.00km.png",
+      "timestamp": "2025-11-14T17:28:04.670242"
+    },
+    {
+      "cluster_id": 3,
+      "center_lat": 34.92067333333333,
+      "center_lon": 51.04555,
+      "radius_km": 1.7061752793009335,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.92067,
+          "lon": 51.0419,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_51.04190_1.0km.png"
+        },
+        {
+          "lat": 34.91163,
+          "lon": 51.0419,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.91163_51.04190_1.0km.png"
+        },
+        {
+          "lat": 34.92972,
+          "lon": 51.05285,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92972_51.05285_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The area appears to be open desert with tracks and scattered small circular features; there are no clear perimeter walls, fences, or clusters of buildings indicative of an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_3_34.920673_51.045550_3.41km.png",
+      "timestamp": "2025-11-14T17:28:12.819601"
+    },
+    {
+      "cluster_id": 4,
+      "center_lat": 34.7609,
+      "center_lon": 50.87034,
+      "radius_km": 1.9976934353924298,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.74884,
+          "lon": 50.87764,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.74884_50.87764_1.0km.png"
+        },
+        {
+          "lat": 34.76693,
+          "lon": 50.85574,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.76693_50.85574_1.0km.png"
+        },
+        {
+          "lat": 34.76693,
+          "lon": 50.87764,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.76693_50.87764_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the upper-right portion of the image there are straight, right-angled perimeter lines forming rectangular areas, including a small walled area around a structure and a larger rectangular plot\u2014consistent with enclosed compounds.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_4_34.760900_50.870340_4.00km.png",
+      "timestamp": "2025-11-14T17:28:29.607901"
+    },
+    {
+      "cluster_id": 5,
+      "center_lat": 34.803108333333334,
+      "center_lon": 50.762654999999995,
+      "radius_km": 2.3059802555772064,
+      "num_detections": 6,
+      "detections": [
+        {
+          "lat": 34.80311,
+          "lon": 50.75718,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.80311_50.75718_1.0km.png"
+        },
+        {
+          "lat": 34.80311,
+          "lon": 50.74623,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.80311_50.74623_1.0km.png"
         },
         {
           "lat": 34.80311,
@@ -1112,27 +183,6 @@
           "distance": 1.0,
           "name": "DF",
           "filename": "DF_34.80311_50.77908_1.0km.png"
-        },
-        {
-          "lat": 34.83928,
-          "lon": 50.9543,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.83928_50.95430_1.0km.png"
-        },
-        {
-          "lat": 34.97494,
-          "lon": 50.94335,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.97494_50.94335_1.0km.png"
-        },
-        {
-          "lat": 34.93876,
-          "lon": 50.68052,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.93876_50.68052_1.0km.png"
         },
         {
           "lat": 34.80311,
@@ -1149,18 +199,93 @@
           "filename": "DF_34.79406_50.74623_1.0km.png"
         },
         {
-          "lat": 34.79406,
-          "lon": 51.20617,
+          "lat": 34.81215,
+          "lon": 50.77908,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.79406_51.20617_1.0km.png"
+          "filename": "DF_34.81215_50.77908_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Rectangular, wall-bounded areas with buildings are visible\u2014most notably along the right edge and center-right\u2014indicating enclosed compounds distinct from the surrounding agricultural plots.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_5_34.803108_50.762655_4.61km.png",
+      "timestamp": "2025-11-14T17:29:04.570717"
+    },
+    {
+      "cluster_id": 6,
+      "center_lat": 34.6358,
+      "center_lon": 51.0273,
+      "radius_km": 2.8910347423479243,
+      "num_detections": 6,
+      "detections": [
+        {
+          "lat": 34.64936,
+          "lon": 51.00905,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.64936_51.00905_1.0km.png"
         },
         {
-          "lat": 34.72171,
-          "lon": 50.84479,
+          "lat": 34.63128,
+          "lon": 51.03095,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.72171_50.84479_1.0km.png"
+          "filename": "DF_34.63128_51.03095_1.0km.png"
+        },
+        {
+          "lat": 34.64032,
+          "lon": 51.00905,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.64032_51.00905_1.0km.png"
+        },
+        {
+          "lat": 34.63128,
+          "lon": 51.0419,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.63128_51.04190_1.0km.png"
+        },
+        {
+          "lat": 34.63128,
+          "lon": 51.05285,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.63128_51.05285_1.0km.png"
+        },
+        {
+          "lat": 34.63128,
+          "lon": 51.02,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.63128_51.02000_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes\u2014on the right side of the image there are several rectangular areas with clear perimeter walls enclosing clusters of buildings, indicative of enclosed compounds.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_6_34.635800_51.027300_5.00km.png",
+      "timestamp": "2025-11-14T17:29:15.981656"
+    },
+    {
+      "cluster_id": 7,
+      "center_lat": 35.05633,
+      "center_lon": 51.15141,
+      "radius_km": 1.5052035253117972,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 35.04729,
+          "lon": 51.15141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.04729_51.15141_1.0km.png"
+        },
+        {
+          "lat": 35.05633,
+          "lon": 51.15141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.05633_51.15141_1.0km.png"
         },
         {
           "lat": 35.06537,
@@ -1168,55 +293,122 @@
           "distance": 1.0,
           "name": "DF",
           "filename": "DF_35.06537_51.15141_1.0km.png"
-        },
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The image shows a long linear corridor (road/rail/airstrip) with sparse structures and open terrain. There are no visible perimeter walls, fences, or clusters of buildings forming a defined enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_7_35.056330_51.151410_3.01km.png",
+      "timestamp": "2025-11-14T17:29:37.041031"
+    },
+    {
+      "cluster_id": 8,
+      "center_lat": 34.86189,
+      "center_lon": 50.850265,
+      "radius_km": 1.208630232842981,
+      "num_detections": 2,
+      "detections": [
         {
-          "lat": 34.92972,
-          "lon": 51.24997,
+          "lat": 34.86641,
+          "lon": 50.84479,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.92972_51.24997_1.0km.png"
+          "filename": "DF_34.86641_50.84479_1.0km.png"
         },
         {
-          "lat": 34.92067,
-          "lon": 50.92144,
+          "lat": 34.85737,
+          "lon": 50.85574,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.92067_50.92144_1.0km.png"
-        },
+          "filename": "DF_34.85737_50.85574_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "In the upper-right/center, a cluster of buildings is surrounded by a rectangular perimeter wall, creating a clearly bounded compound next to the road. There is also a smaller walled circular enclosure near the lower-right beside the highway.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_8_34.861890_50.850265_2.42km.png",
+      "timestamp": "2025-11-14T17:30:06.770101"
+    },
+    {
+      "cluster_id": 9,
+      "center_lat": 35.09638285714286,
+      "center_lon": 50.87451142857143,
+      "radius_km": 2.9586969657706885,
+      "num_detections": 7,
+      "detections": [
         {
-          "lat": 34.71267,
-          "lon": 50.88859,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.71267_50.88859_1.0km.png"
-        },
-        {
-          "lat": 34.99302,
-          "lon": 51.15141,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.99302_51.15141_1.0km.png"
-        },
-        {
-          "lat": 34.72171,
+          "lat": 35.11059,
           "lon": 50.87764,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.72171_50.87764_1.0km.png"
+          "filename": "DF_35.11059_50.87764_1.0km.png"
         },
         {
-          "lat": 34.91163,
-          "lon": 51.09666,
+          "lat": 35.09251,
+          "lon": 50.85574,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.91163_51.09666_1.0km.png"
+          "filename": "DF_35.09251_50.85574_1.0km.png"
         },
         {
-          "lat": 34.66745,
-          "lon": 50.9762,
+          "lat": 35.09251,
+          "lon": 50.86669,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.66745_50.97620_1.0km.png"
+          "filename": "DF_35.09251_50.86669_1.0km.png"
+        },
+        {
+          "lat": 35.07442,
+          "lon": 50.87764,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.07442_50.87764_1.0km.png"
+        },
+        {
+          "lat": 35.10155,
+          "lon": 50.87764,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.10155_50.87764_1.0km.png"
+        },
+        {
+          "lat": 35.11059,
+          "lon": 50.88859,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.11059_50.88859_1.0km.png"
+        },
+        {
+          "lat": 35.09251,
+          "lon": 50.87764,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.09251_50.87764_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows a grid of graded plots and roads with a few scattered structures and a loop road. I don\u2019t see a single area with a continuous perimeter wall or fence forming a clearly enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_9_35.096383_50.874511_5.00km.png",
+      "timestamp": "2025-11-14T17:30:26.231777"
+    },
+    {
+      "cluster_id": 10,
+      "center_lat": 34.789545,
+      "center_lon": 50.9406075,
+      "radius_km": 2.810720482785335,
+      "num_detections": 4,
+      "detections": [
+        {
+          "lat": 34.77598,
+          "lon": 50.9543,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.77598_50.95430_1.0km.png"
+        },
+        {
+          "lat": 34.80311,
+          "lon": 50.93239,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.80311_50.93239_1.0km.png"
         },
         {
           "lat": 34.80311,
@@ -1226,25 +418,52 @@
           "filename": "DF_34.80311_50.95430_1.0km.png"
         },
         {
-          "lat": 34.84833,
-          "lon": 50.88859,
+          "lat": 34.77598,
+          "lon": 50.92144,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.84833_50.88859_1.0km.png"
+          "filename": "DF_34.77598_50.92144_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. Near the upper-right quadrant there is a small square walled area with a structure inside, distinct from the surrounding agricultural plots\u2014indicative of an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_10_34.789545_50.940607_5.00km.png",
+      "timestamp": "2025-11-14T17:30:37.507743"
+    },
+    {
+      "cluster_id": 11,
+      "center_lat": 34.700010000000006,
+      "center_lon": 50.79879,
+      "radius_km": 3.3315824033624604,
+      "num_detections": 5,
+      "detections": [
+        {
+          "lat": 34.68554,
+          "lon": 50.80098,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.68554_50.80098_1.0km.png"
         },
         {
-          "lat": 34.77598,
+          "lat": 34.70363,
+          "lon": 50.76813,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.70363_50.76813_1.0km.png"
+        },
+        {
+          "lat": 34.71267,
+          "lon": 50.80098,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.71267_50.80098_1.0km.png"
+        },
+        {
+          "lat": 34.69458,
           "lon": 50.81193,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.77598_50.81193_1.0km.png"
-        },
-        {
-          "lat": 34.91163,
-          "lon": 50.98715,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.91163_50.98715_1.0km.png"
+          "filename": "DF_34.69458_50.81193_1.0km.png"
         },
         {
           "lat": 34.70363,
@@ -1252,97 +471,108 @@
           "distance": 1.0,
           "name": "DF",
           "filename": "DF_34.70363_50.81193_1.0km.png"
-        },
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I don\u2019t see a distinct walled or fenced perimeter with clustered buildings. The area appears to be open desert with roads and some agricultural/pond plots, but no clear enclosed compound outline.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_11_34.700010_50.798790_5.00km.png",
+      "timestamp": "2025-11-14T17:30:51.635307"
+    },
+    {
+      "cluster_id": 12,
+      "center_lat": 34.72171,
+      "center_lon": 50.839315,
+      "radius_km": 1.0003842335523372,
+      "num_detections": 2,
+      "detections": [
         {
-          "lat": 34.92972,
-          "lon": 51.05285,
+          "lat": 34.72171,
+          "lon": 50.83384,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.92972_51.05285_1.0km.png"
-        },
-        {
-          "lat": 34.87546,
-          "lon": 50.98715,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.87546_50.98715_1.0km.png"
-        },
-        {
-          "lat": 34.90259,
-          "lon": 51.24997,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.90259_51.24997_1.0km.png"
-        },
-        {
-          "lat": 34.81215,
-          "lon": 50.70243,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.81215_50.70243_1.0km.png"
-        },
-        {
-          "lat": 35.0292,
-          "lon": 50.87764,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.02920_50.87764_1.0km.png"
-        },
-        {
-          "lat": 34.64032,
-          "lon": 50.93239,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.64032_50.93239_1.0km.png"
-        },
-        {
-          "lat": 34.81215,
-          "lon": 50.77908,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.81215_50.77908_1.0km.png"
-        },
-        {
-          "lat": 34.7398,
-          "lon": 50.94335,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.73980_50.94335_1.0km.png"
-        },
-        {
-          "lat": 35.05633,
-          "lon": 50.89954,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.05633_50.89954_1.0km.png"
-        },
-        {
-          "lat": 34.92972,
-          "lon": 51.14046,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92972_51.14046_1.0km.png"
-        },
-        {
-          "lat": 34.94781,
-          "lon": 51.26092,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.94781_51.26092_1.0km.png"
-        },
-        {
-          "lat": 34.89354,
-          "lon": 51.17331,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.89354_51.17331_1.0km.png"
+          "filename": "DF_34.72171_50.83384_1.0km.png"
         },
         {
           "lat": 34.72171,
-          "lon": 51.17331,
+          "lon": 50.84479,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.72171_51.17331_1.0km.png"
+          "filename": "DF_34.72171_50.84479_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The area appears to be open desert with roads and tracks; I don\u2019t see clear perimeter walls or fences enclosing structures that would indicate a compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_12_34.721710_50.839315_2.00km.png",
+      "timestamp": "2025-11-14T17:31:06.167959"
+    },
+    {
+      "cluster_id": 13,
+      "center_lat": 34.77899,
+      "center_lon": 51.03459999999999,
+      "radius_km": 2.2085405840302066,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.77598,
+          "lon": 51.03095,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.77598_51.03095_1.0km.png"
+        },
+        {
+          "lat": 34.76693,
+          "lon": 51.0419,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.76693_51.04190_1.0km.png"
+        },
+        {
+          "lat": 34.79406,
+          "lon": 51.03095,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.79406_51.03095_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes\u2014there are rectangular, wall-bounded areas with internal structures, notably just below the desert wash where it meets the cultivated fields and again near the lower-left road, suggesting enclosed compounds.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_13_34.778990_51.034600_4.42km.png",
+      "timestamp": "2025-11-14T17:31:22.639858"
+    },
+    {
+      "cluster_id": 14,
+      "center_lat": 34.99664,
+      "center_lon": 50.820691999999994,
+      "radius_km": 3.717848104637398,
+      "num_detections": 5,
+      "detections": [
+        {
+          "lat": 35.00207,
+          "lon": 50.81193,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.00207_50.81193_1.0km.png"
+        },
+        {
+          "lat": 35.01111,
+          "lon": 50.81193,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.01111_50.81193_1.0km.png"
+        },
+        {
+          "lat": 34.99302,
+          "lon": 50.85574,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.99302_50.85574_1.0km.png"
+        },
+        {
+          "lat": 34.98398,
+          "lon": 50.81193,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.98398_50.81193_1.0km.png"
         },
         {
           "lat": 34.99302,
@@ -1350,69 +580,115 @@
           "distance": 1.0,
           "name": "DF",
           "filename": "DF_34.99302_50.81193_1.0km.png"
-        },
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The area appears to be open desert with linear tracks/roads and natural striations. There are no clear rectangular or walled perimeters or clusters of buildings that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_14_34.996640_50.820692_5.00km.png",
+      "timestamp": "2025-11-14T17:31:32.298251"
+    },
+    {
+      "cluster_id": 15,
+      "center_lat": 34.6764925,
+      "center_lon": 50.9625125,
+      "radius_km": 2.6468460852595332,
+      "num_detections": 4,
+      "detections": [
         {
-          "lat": 34.91163,
-          "lon": 50.82289,
+          "lat": 34.66745,
+          "lon": 50.94335,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.91163_50.82289_1.0km.png"
+          "filename": "DF_34.66745_50.94335_1.0km.png"
         },
         {
-          "lat": 34.91163,
-          "lon": 51.11856,
+          "lat": 34.69458,
+          "lon": 50.9543,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.91163_51.11856_1.0km.png"
+          "filename": "DF_34.69458_50.95430_1.0km.png"
         },
         {
-          "lat": 34.68554,
-          "lon": 50.88859,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.68554_50.88859_1.0km.png"
-        },
-        {
-          "lat": 34.79406,
-          "lon": 51.17331,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.79406_51.17331_1.0km.png"
-        },
-        {
-          "lat": 34.85737,
-          "lon": 51.21712,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.85737_51.21712_1.0km.png"
-        },
-        {
-          "lat": 34.90259,
-          "lon": 51.14046,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.90259_51.14046_1.0km.png"
-        },
-        {
-          "lat": 34.92067,
-          "lon": 50.79003,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92067_50.79003_1.0km.png"
-        },
-        {
-          "lat": 34.89354,
+          "lat": 34.67649,
           "lon": 50.9762,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.89354_50.97620_1.0km.png"
+          "filename": "DF_34.67649_50.97620_1.0km.png"
         },
         {
-          "lat": 34.86641,
-          "lon": 51.14046,
+          "lat": 34.66745,
+          "lon": 50.9762,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.86641_51.14046_1.0km.png"
+          "filename": "DF_34.66745_50.97620_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the upper-right quadrant there is a light-toned area with a clear perimeter boundary and internal road/plot layout suggesting a walled compound. There also appears to be a smaller rectangular, walled area just left of center near the bottom.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_15_34.676493_50.962513_5.00km.png",
+      "timestamp": "2025-11-14T17:31:45.448285"
+    },
+    {
+      "cluster_id": 16,
+      "center_lat": 35.08647666666667,
+      "center_lon": 51.147760000000005,
+      "radius_km": 2.8592750877522617,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 35.07442,
+          "lon": 51.15141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.07442_51.15141_1.0km.png"
+        },
+        {
+          "lat": 35.10155,
+          "lon": 51.12951,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.10155_51.12951_1.0km.png"
+        },
+        {
+          "lat": 35.08346,
+          "lon": 51.16236,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.08346_51.16236_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows natural terrain with a dry wash and a linear canal/road corridor. There are no clear perimeter walls or fences enclosing buildings or a defined area that would indicate a compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_16_35.086477_51.147760_5.00km.png",
+      "timestamp": "2025-11-14T17:31:57.902169"
+    },
+    {
+      "cluster_id": 17,
+      "center_lat": 34.844708000000004,
+      "center_lon": 51.177693999999995,
+      "radius_km": 2.20953627800227,
+      "num_detections": 5,
+      "detections": [
+        {
+          "lat": 34.84833,
+          "lon": 51.16236,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.84833_51.16236_1.0km.png"
+        },
+        {
+          "lat": 34.83928,
+          "lon": 51.17331,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.83928_51.17331_1.0km.png"
+        },
+        {
+          "lat": 34.83928,
+          "lon": 51.19522,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.83928_51.19522_1.0km.png"
         },
         {
           "lat": 34.83928,
@@ -1422,39 +698,201 @@
           "filename": "DF_34.83928_51.18427_1.0km.png"
         },
         {
-          "lat": 34.89354,
-          "lon": 51.27187,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.89354_51.27187_1.0km.png"
-        },
-        {
-          "lat": 34.74884,
-          "lon": 50.94335,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.74884_50.94335_1.0km.png"
-        },
-        {
-          "lat": 34.69458,
-          "lon": 50.87764,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.69458_50.87764_1.0km.png"
-        },
-        {
-          "lat": 34.92067,
-          "lon": 51.21712,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92067_51.21712_1.0km.png"
-        },
-        {
           "lat": 34.85737,
           "lon": 51.17331,
           "distance": 1.0,
           "name": "DF",
           "filename": "DF_34.85737_51.17331_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows agricultural fields and irrigation grids with natural terrain; there is no distinct walled or fenced perimeter enclosing buildings or facilities typical of an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_17_34.844708_51.177694_4.42km.png",
+      "timestamp": "2025-11-14T17:32:12.666830"
+    },
+    {
+      "cluster_id": 18,
+      "center_lat": 35.05633,
+      "center_lon": 50.903189999999995,
+      "radius_km": 2.441548160598328,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 35.04729,
+          "lon": 50.88859,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.04729_50.88859_1.0km.png"
+        },
+        {
+          "lat": 35.06537,
+          "lon": 50.92144,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.06537_50.92144_1.0km.png"
+        },
+        {
+          "lat": 35.05633,
+          "lon": 50.89954,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.05633_50.89954_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I don\u2019t see a defined perimeter such as walls or fencing forming a closed boundary. The scene shows linear tracks/roads and a few small structures, but not an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_18_35.056330_50.903190_4.88km.png",
+      "timestamp": "2025-11-14T17:32:23.366489"
+    },
+    {
+      "cluster_id": 19,
+      "center_lat": 35.044270000000004,
+      "center_lon": 50.78638,
+      "radius_km": 3.241615815451091,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 35.05633,
+          "lon": 50.79003,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.05633_50.79003_1.0km.png"
+        },
+        {
+          "lat": 35.03824,
+          "lon": 50.75718,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.03824_50.75718_1.0km.png"
+        },
+        {
+          "lat": 35.03824,
+          "lon": 50.81193,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.03824_50.81193_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene appears to be open desert terrain with natural ridges and some linear tracks/roads. There are no visible rectangular or walled perimeters, fence lines, or clusters of buildings that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_19_35.044270_50.786380_5.00km.png",
+      "timestamp": "2025-11-14T17:32:30.436603"
+    },
+    {
+      "cluster_id": 20,
+      "center_lat": 34.81667,
+      "center_lon": 50.70243,
+      "radius_km": 1.0026017626555035,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 34.82119,
+          "lon": 50.70243,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.82119_50.70243_1.0km.png"
+        },
+        {
+          "lat": 34.81215,
+          "lon": 50.70243,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.81215_50.70243_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes\u2014near the center-left there is a square, walled structure forming a clearly enclosed area (with interior divisions/shadows). A similar smaller walled enclosure is also visible toward the lower-left.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_20_34.816670_50.702430_2.01km.png",
+      "timestamp": "2025-11-14T17:32:41.998291"
+    },
+    {
+      "cluster_id": 21,
+      "center_lat": 34.70061333333334,
+      "center_lon": 51.012699999999995,
+      "radius_km": 2.8649991772678973,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.68554,
+          "lon": 51.03095,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.68554_51.03095_1.0km.png"
+        },
+        {
+          "lat": 34.71267,
+          "lon": 51.00905,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.71267_51.00905_1.0km.png"
+        },
+        {
+          "lat": 34.70363,
+          "lon": 50.9981,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.70363_50.99810_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I do not see a clearly defined perimeter (wall or fence) enclosing a group of buildings. The image mainly shows intersecting roads in a desert area with a few isolated structures, but no distinct walled or fenced compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_21_34.700613_51.012700_5.00km.png",
+      "timestamp": "2025-11-14T17:32:51.945099"
+    },
+    {
+      "cluster_id": 22,
+      "center_lat": 34.95459,
+      "center_lon": 51.2691325,
+      "radius_km": 2.7765283437833292,
+      "num_detections": 4,
+      "detections": [
+        {
+          "lat": 34.97494,
+          "lon": 51.27187,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.97494_51.27187_1.0km.png"
+        },
+        {
+          "lat": 34.93876,
+          "lon": 51.28282,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.93876_51.28282_1.0km.png"
+        },
+        {
+          "lat": 34.95685,
+          "lon": 51.26092,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.95685_51.26092_1.0km.png"
+        },
+        {
+          "lat": 34.94781,
+          "lon": 51.26092,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.94781_51.26092_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene appears to be natural desert/rocky terrain with drainage patterns. There are no visible rectilinear perimeters, walls, fences, gates, or clusters of buildings that would indicate an enclosed compound. A faint linear feature may be a road or track, but it does not form an enclosure.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_22_34.954590_51.269132_5.00km.png",
+      "timestamp": "2025-11-14T17:33:07.395433"
+    },
+    {
+      "cluster_id": 23,
+      "center_lat": 34.85737,
+      "center_lon": 50.729805,
+      "radius_km": 2.3045069054071536,
+      "num_detections": 4,
+      "detections": [
+        {
+          "lat": 34.86641,
+          "lon": 50.74623,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.86641_50.74623_1.0km.png"
         },
         {
           "lat": 34.84833,
@@ -1464,139 +902,6 @@
           "filename": "DF_34.84833_50.72433_1.0km.png"
         },
         {
-          "lat": 34.90259,
-          "lon": 50.76813,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.90259_50.76813_1.0km.png"
-        },
-        {
-          "lat": 34.69458,
-          "lon": 51.11856,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.69458_51.11856_1.0km.png"
-        },
-        {
-          "lat": 35.08346,
-          "lon": 50.82289,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.08346_50.82289_1.0km.png"
-        },
-        {
-          "lat": 34.8845,
-          "lon": 51.32663,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.88450_51.32663_1.0km.png"
-        },
-        {
-          "lat": 34.77598,
-          "lon": 50.92144,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.77598_50.92144_1.0km.png"
-        },
-        {
-          "lat": 34.92067,
-          "lon": 50.71338,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92067_50.71338_1.0km.png"
-        },
-        {
-          "lat": 34.65841,
-          "lon": 51.11856,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.65841_51.11856_1.0km.png"
-        },
-        {
-          "lat": 34.95685,
-          "lon": 50.76813,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.95685_50.76813_1.0km.png"
-        },
-        {
-          "lat": 34.92972,
-          "lon": 50.80098,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92972_50.80098_1.0km.png"
-        },
-        {
-          "lat": 34.98398,
-          "lon": 51.15141,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.98398_51.15141_1.0km.png"
-        },
-        {
-          "lat": 34.76693,
-          "lon": 50.87764,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.76693_50.87764_1.0km.png"
-        },
-        {
-          "lat": 34.82119,
-          "lon": 50.91049,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.82119_50.91049_1.0km.png"
-        },
-        {
-          "lat": 34.8845,
-          "lon": 51.14046,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.88450_51.14046_1.0km.png"
-        },
-        {
-          "lat": 34.92067,
-          "lon": 51.29377,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92067_51.29377_1.0km.png"
-        },
-        {
-          "lat": 34.64936,
-          "lon": 50.98715,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.64936_50.98715_1.0km.png"
-        },
-        {
-          "lat": 34.92972,
-          "lon": 50.9543,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.92972_50.95430_1.0km.png"
-        },
-        {
-          "lat": 34.83024,
-          "lon": 51.22807,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.83024_51.22807_1.0km.png"
-        },
-        {
-          "lat": 35.03824,
-          "lon": 51.15141,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_35.03824_51.15141_1.0km.png"
-        },
-        {
-          "lat": 34.83928,
-          "lon": 51.26092,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.83928_51.26092_1.0km.png"
-        },
-        {
           "lat": 34.85737,
           "lon": 50.71338,
           "distance": 1.0,
@@ -1604,67 +909,161 @@
           "filename": "DF_34.85737_50.71338_1.0km.png"
         },
         {
-          "lat": 34.94781,
-          "lon": 50.86669,
+          "lat": 34.85737,
+          "lon": 50.73528,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.94781_50.86669_1.0km.png"
-        },
+          "filename": "DF_34.85737_50.73528_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Near the right-center along the diagonal road, there is a rectangular area with a clear perimeter wall and several buildings inside, distinct from the surrounding fields\u2014indicative of an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_23_34.857370_50.729805_4.61km.png",
+      "timestamp": "2025-11-14T17:33:27.236580"
+    },
+    {
+      "cluster_id": 24,
+      "center_lat": 35.0292,
+      "center_lon": 51.15141,
+      "radius_km": 1.5052035253117972,
+      "num_detections": 3,
+      "detections": [
         {
-          "lat": 34.83024,
-          "lon": 50.89954,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.83024_50.89954_1.0km.png"
-        },
-        {
-          "lat": 34.94781,
-          "lon": 50.70243,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.94781_50.70243_1.0km.png"
-        },
-        {
-          "lat": 34.86641,
-          "lon": 50.80098,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.86641_50.80098_1.0km.png"
-        },
-        {
-          "lat": 34.65841,
+          "lat": 35.02016,
           "lon": 51.15141,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.65841_51.15141_1.0km.png"
+          "filename": "DF_35.02016_51.15141_1.0km.png"
         },
         {
-          "lat": 34.83928,
-          "lon": 50.89954,
-          "distance": 1.0,
-          "name": "DF",
-          "filename": "DF_34.83928_50.89954_1.0km.png"
-        },
-        {
-          "lat": 34.66745,
+          "lat": 35.0292,
           "lon": 51.15141,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.66745_51.15141_1.0km.png"
+          "filename": "DF_35.02920_51.15141_1.0km.png"
         },
         {
-          "lat": 34.77598,
+          "lat": 35.03824,
+          "lon": 51.15141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.03824_51.15141_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I don\u2019t see any continuous walls or fencing forming a closed perimeter. The scene shows a linear corridor (road/rail/pipeline) and scattered earthworks/structures, but no clear rectangular or enclosed boundary.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_24_35.029200_51.151410_3.01km.png",
+      "timestamp": "2025-11-14T17:33:42.631834"
+    },
+    {
+      "cluster_id": 25,
+      "center_lat": 34.98172,
+      "center_lon": 50.9241825,
+      "radius_km": 2.7590701074707527,
+      "num_detections": 4,
+      "detections": [
+        {
+          "lat": 34.97494,
+          "lon": 50.91049,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.97494_50.91049_1.0km.png"
+        },
+        {
+          "lat": 34.99302,
+          "lon": 50.94335,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.99302_50.94335_1.0km.png"
+        },
+        {
+          "lat": 34.98398,
+          "lon": 50.89954,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.98398_50.89954_1.0km.png"
+        },
+        {
+          "lat": 34.97494,
+          "lon": 50.94335,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.97494_50.94335_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The image shows large, uniform textured areas and linear patterns typical of fields or surface features, with no visible perimeter walls, fences, or clusters of buildings that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_25_34.981720_50.924183_5.00km.png",
+      "timestamp": "2025-11-14T17:34:03.361434"
+    },
+    {
+      "cluster_id": 26,
+      "center_lat": 35.087985,
+      "center_lon": 51.08571,
+      "radius_km": 1.6161834271671114,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 35.09251,
+          "lon": 51.07476,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.09251_51.07476_1.0km.png"
+        },
+        {
+          "lat": 35.08346,
+          "lon": 51.09666,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.08346_51.09666_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I only see roads/tracks and natural terrain patterns. There are no clear perimeter walls or fences forming a closed boundary, nor clusters of buildings or a gate/entry that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_26_35.087985_51.085710_3.23km.png",
+      "timestamp": "2025-11-14T17:34:21.380464"
+    },
+    {
+      "cluster_id": 27,
+      "center_lat": 34.72924833333334,
+      "center_lon": 51.18974333333333,
+      "radius_km": 2.7351679953413854,
+      "num_detections": 6,
+      "detections": [
+        {
+          "lat": 34.71267,
+          "lon": 51.18427,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.71267_51.18427_1.0km.png"
+        },
+        {
+          "lat": 34.7398,
+          "lon": 51.18427,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.73980_51.18427_1.0km.png"
+        },
+        {
+          "lat": 34.74884,
+          "lon": 51.18427,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.74884_51.18427_1.0km.png"
+        },
+        {
+          "lat": 34.72171,
           "lon": 51.20617,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.77598_51.20617_1.0km.png"
+          "filename": "DF_34.72171_51.20617_1.0km.png"
         },
         {
-          "lat": 34.89354,
-          "lon": 50.98715,
+          "lat": 34.72171,
+          "lon": 51.17331,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.89354_50.98715_1.0km.png"
+          "filename": "DF_34.72171_51.17331_1.0km.png"
         },
         {
           "lat": 34.73076,
@@ -1672,27 +1071,47 @@
           "distance": 1.0,
           "name": "DF",
           "filename": "DF_34.73076_51.20617_1.0km.png"
-        },
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. There are clear rectangular, walled areas with clustered buildings\u2014one at the top-left by the road and another toward the top-center-right\u2014distinct from the surrounding open fields, indicating enclosed compounds.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_27_34.729248_51.189743_5.00km.png",
+      "timestamp": "2025-11-14T17:34:31.320315"
+    },
+    {
+      "cluster_id": 28,
+      "center_lat": 34.65298,
+      "center_lon": 51.103229999999996,
+      "radius_km": 2.1523729532665374,
+      "num_detections": 5,
+      "detections": [
         {
-          "lat": 34.83024,
-          "lon": 51.00905,
+          "lat": 34.65841,
+          "lon": 51.10761,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.83024_51.00905_1.0km.png"
+          "filename": "DF_34.65841_51.10761_1.0km.png"
         },
         {
-          "lat": 34.8845,
-          "lon": 50.9981,
+          "lat": 34.64936,
+          "lon": 51.08571,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.88450_50.99810_1.0km.png"
+          "filename": "DF_34.64936_51.08571_1.0km.png"
         },
         {
-          "lat": 34.85737,
-          "lon": 50.73528,
+          "lat": 34.64936,
+          "lon": 51.10761,
           "distance": 1.0,
           "name": "DF",
-          "filename": "DF_34.85737_50.73528_1.0km.png"
+          "filename": "DF_34.64936_51.10761_1.0km.png"
+        },
+        {
+          "lat": 34.65841,
+          "lon": 51.11856,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.65841_51.11856_1.0km.png"
         },
         {
           "lat": 34.64936,
@@ -1703,10 +1122,1561 @@
         }
       ],
       "compound_present": "no",
-      "explanation": "The image shows open rocky terrain with some linear tracks/roads but no visible perimeter walls or fencing forming a closed boundary, and no clustered structures typical of an enclosed compound.",
-      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_1_34.866375_50.993647_5.00km.png",
-      "timestamp": "2025-11-14T02:10:45.292993"
+      "explanation": "The scene shows open desert terrain with a highway and some tracks and a small structure, but no visible perimeter walls or fencing forming a closed, defined compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_28_34.652980_51.103230_4.30km.png",
+      "timestamp": "2025-11-14T17:34:46.258768"
+    },
+    {
+      "cluster_id": 29,
+      "center_lat": 34.914645,
+      "center_lon": 51.262744999999995,
+      "radius_km": 3.4070252004895134,
+      "num_detections": 6,
+      "detections": [
+        {
+          "lat": 34.92067,
+          "lon": 51.24997,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_51.24997_1.0km.png"
+        },
+        {
+          "lat": 34.91163,
+          "lon": 51.24997,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.91163_51.24997_1.0km.png"
+        },
+        {
+          "lat": 34.90259,
+          "lon": 51.28282,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.90259_51.28282_1.0km.png"
+        },
+        {
+          "lat": 34.92972,
+          "lon": 51.24997,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92972_51.24997_1.0km.png"
+        },
+        {
+          "lat": 34.90259,
+          "lon": 51.24997,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.90259_51.24997_1.0km.png"
+        },
+        {
+          "lat": 34.92067,
+          "lon": 51.29377,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_51.29377_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the upper-right area near the roadway there is a small cluster of buildings surrounded by a clear rectangular boundary, indicating a fenced or walled compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_29_34.914645_51.262745_5.00km.png",
+      "timestamp": "2025-11-14T17:35:12.376163"
+    },
+    {
+      "cluster_id": 30,
+      "center_lat": 34.931225000000005,
+      "center_lon": 50.797329999999995,
+      "radius_km": 1.8492268372777236,
+      "num_detections": 6,
+      "detections": [
+        {
+          "lat": 34.93876,
+          "lon": 50.79003,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.93876_50.79003_1.0km.png"
+        },
+        {
+          "lat": 34.92972,
+          "lon": 50.81193,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92972_50.81193_1.0km.png"
+        },
+        {
+          "lat": 34.92972,
+          "lon": 50.79003,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92972_50.79003_1.0km.png"
+        },
+        {
+          "lat": 34.93876,
+          "lon": 50.80098,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.93876_50.80098_1.0km.png"
+        },
+        {
+          "lat": 34.92067,
+          "lon": 50.79003,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_50.79003_1.0km.png"
+        },
+        {
+          "lat": 34.92972,
+          "lon": 50.80098,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92972_50.80098_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. Near the right-center of the image, just below a road junction, there is a rectangular area with clear perimeter boundaries and interior structures, indicating a walled or fenced compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_30_34.931225_50.797330_3.70km.png",
+      "timestamp": "2025-11-14T17:35:23.382495"
+    },
+    {
+      "cluster_id": 31,
+      "center_lat": 34.862796,
+      "center_lon": 51.13826999999999,
+      "radius_km": 2.120912841191578,
+      "num_detections": 5,
+      "detections": [
+        {
+          "lat": 34.87546,
+          "lon": 51.14046,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.87546_51.14046_1.0km.png"
+        },
+        {
+          "lat": 34.86641,
+          "lon": 51.12951,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.86641_51.12951_1.0km.png"
+        },
+        {
+          "lat": 34.84833,
+          "lon": 51.14046,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.84833_51.14046_1.0km.png"
+        },
+        {
+          "lat": 34.85737,
+          "lon": 51.14046,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.85737_51.14046_1.0km.png"
+        },
+        {
+          "lat": 34.86641,
+          "lon": 51.14046,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.86641_51.14046_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows open desert with a road and some field boundaries, but no clear walled or fenced perimeter enclosing buildings or facilities.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_31_34.862796_51.138270_4.24km.png",
+      "timestamp": "2025-11-14T17:35:30.621769"
+    },
+    {
+      "cluster_id": 32,
+      "center_lat": 35.108335,
+      "center_lon": 51.041900000000005,
+      "radius_km": 2.8554700697806945,
+      "num_detections": 4,
+      "detections": [
+        {
+          "lat": 35.09251,
+          "lon": 51.05285,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.09251_51.05285_1.0km.png"
+        },
+        {
+          "lat": 35.11964,
+          "lon": 51.0419,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.11964_51.04190_1.0km.png"
+        },
+        {
+          "lat": 35.11964,
+          "lon": 51.02,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.11964_51.02000_1.0km.png"
+        },
+        {
+          "lat": 35.10155,
+          "lon": 51.05285,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.10155_51.05285_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I only see linear features like roads/track lines and possibly a pipeline or utility corridor across open terrain. There are no clear rectangular fences, perimeter walls, or clusters of buildings that indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_32_35.108335_51.041900_5.00km.png",
+      "timestamp": "2025-11-14T17:35:40.913669"
+    },
+    {
+      "cluster_id": 33,
+      "center_lat": 35.07894,
+      "center_lon": 50.83384,
+      "radius_km": 1.6160315201387918,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 35.07442,
+          "lon": 50.84479,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.07442_50.84479_1.0km.png"
+        },
+        {
+          "lat": 35.08346,
+          "lon": 50.82289,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.08346_50.82289_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "In the lower-left of the image there is a rectangular area with clear perimeter boundaries and structures inside, consistent with a walled or fenced compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_33_35.078940_50.833840_3.23km.png",
+      "timestamp": "2025-11-14T17:36:04.996894"
+    },
+    {
+      "cluster_id": 34,
+      "center_lat": 34.972677499999996,
+      "center_lon": 50.8146725,
+      "radius_km": 1.7727026380696358,
+      "num_detections": 4,
+      "detections": [
+        {
+          "lat": 34.97494,
+          "lon": 50.81193,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.97494_50.81193_1.0km.png"
+        },
+        {
+          "lat": 34.97494,
+          "lon": 50.82289,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.97494_50.82289_1.0km.png"
+        },
+        {
+          "lat": 34.96589,
+          "lon": 50.82289,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.96589_50.82289_1.0km.png"
+        },
+        {
+          "lat": 34.97494,
+          "lon": 50.80098,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.97494_50.80098_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. There are clearly defined square/rectangular enclosures with visible perimeter walls/fencing around individual buildings\u2014e.g., one near center\u2011left and another near the lower center\u2014each with an access road/gate, indicating enclosed compounds.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_34_34.972677_50.814673_3.55km.png",
+      "timestamp": "2025-11-14T17:36:26.396548"
+    },
+    {
+      "cluster_id": 35,
+      "center_lat": 34.9071075,
+      "center_lon": 50.82289,
+      "radius_km": 2.0086392510685265,
+      "num_detections": 4,
+      "detections": [
+        {
+          "lat": 34.90259,
+          "lon": 50.82289,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.90259_50.82289_1.0km.png"
+        },
+        {
+          "lat": 34.92067,
+          "lon": 50.82289,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_50.82289_1.0km.png"
+        },
+        {
+          "lat": 34.89354,
+          "lon": 50.82289,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.89354_50.82289_1.0km.png"
+        },
+        {
+          "lat": 34.91163,
+          "lon": 50.82289,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.91163_50.82289_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The area appears to be a desert with a linear corridor (road/rail) and scattered small structures. I do not see any distinct walled or fenced perimeter forming a clear enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_35_34.907108_50.822890_4.02km.png",
+      "timestamp": "2025-11-14T17:36:46.773834"
+    },
+    {
+      "cluster_id": 36,
+      "center_lat": 34.72171,
+      "center_lon": 51.07476,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 34.72171,
+          "lon": 51.07476,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.72171_51.07476_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Near the center-bottom along the road, a small cluster of buildings (including a blue-roofed one) is surrounded by a clear rectangular perimeter wall/fence with a defined entrance, indicating an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_36_34.721710_51.074760_2.00km.png",
+      "timestamp": "2025-11-14T17:37:08.512705"
+    },
+    {
+      "cluster_id": 37,
+      "center_lat": 34.9161525,
+      "center_lon": 50.937870000000004,
+      "radius_km": 2.625990081101175,
+      "num_detections": 4,
+      "detections": [
+        {
+          "lat": 34.90259,
+          "lon": 50.93239,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.90259_50.93239_1.0km.png"
+        },
+        {
+          "lat": 34.91163,
+          "lon": 50.94335,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.91163_50.94335_1.0km.png"
+        },
+        {
+          "lat": 34.92067,
+          "lon": 50.92144,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_50.92144_1.0km.png"
+        },
+        {
+          "lat": 34.92972,
+          "lon": 50.9543,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92972_50.95430_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The area appears to be open desert with a road and scattered features. I don\u2019t see clear perimeter walls, fencing, or a defined rectangular boundary that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_37_34.916153_50.937870_5.00km.png",
+      "timestamp": "2025-11-14T17:37:21.377685"
+    },
+    {
+      "cluster_id": 38,
+      "center_lat": 34.831745000000005,
+      "center_lon": 50.905015,
+      "radius_km": 2.8765455420314803,
+      "num_detections": 6,
+      "detections": [
+        {
+          "lat": 34.83024,
+          "lon": 50.91049,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.83024_50.91049_1.0km.png"
+        },
+        {
+          "lat": 34.82119,
+          "lon": 50.92144,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.82119_50.92144_1.0km.png"
+        },
+        {
+          "lat": 34.84833,
+          "lon": 50.88859,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.84833_50.88859_1.0km.png"
+        },
+        {
+          "lat": 34.82119,
+          "lon": 50.91049,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.82119_50.91049_1.0km.png"
+        },
+        {
+          "lat": 34.83024,
+          "lon": 50.89954,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.83024_50.89954_1.0km.png"
+        },
+        {
+          "lat": 34.83928,
+          "lon": 50.89954,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.83928_50.89954_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. There are several rectangular areas with continuous perimeter walls/fences enclosing buildings and yards, particularly around the center-right and bottom-center, indicating enclosed compounds (likely industrial complexes).",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_38_34.831745_50.905015_5.00km.png",
+      "timestamp": "2025-11-14T17:37:37.412410"
+    },
+    {
+      "cluster_id": 39,
+      "center_lat": 34.917656666666666,
+      "center_lon": 51.19522,
+      "radius_km": 2.5246631749979596,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.92067,
+          "lon": 51.18427,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_51.18427_1.0km.png"
+        },
+        {
+          "lat": 34.91163,
+          "lon": 51.18427,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.91163_51.18427_1.0km.png"
+        },
+        {
+          "lat": 34.92067,
+          "lon": 51.21712,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_51.21712_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The image shows natural desert terrain with irregular geologic and drainage patterns but no rectilinear walls, perimeter fencing, or clusters of buildings that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_39_34.917657_51.195220_5.00km.png",
+      "timestamp": "2025-11-14T17:37:44.997857"
+    },
+    {
+      "cluster_id": 40,
+      "center_lat": 34.84682,
+      "center_lon": 51.23901999999999,
+      "radius_km": 2.817258391450852,
+      "num_detections": 6,
+      "detections": [
+        {
+          "lat": 34.84833,
+          "lon": 51.26092,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.84833_51.26092_1.0km.png"
+        },
+        {
+          "lat": 34.84833,
+          "lon": 51.22807,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.84833_51.22807_1.0km.png"
+        },
+        {
+          "lat": 34.85737,
+          "lon": 51.23902,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.85737_51.23902_1.0km.png"
+        },
+        {
+          "lat": 34.85737,
+          "lon": 51.21712,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.85737_51.21712_1.0km.png"
+        },
+        {
+          "lat": 34.83024,
+          "lon": 51.22807,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.83024_51.22807_1.0km.png"
+        },
+        {
+          "lat": 34.83928,
+          "lon": 51.26092,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.83928_51.26092_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I do not see any clear perimeter walls or fenced, rectangular enclosures with grouped buildings. The area appears to be open terrain and agricultural fields without a defined compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_40_34.846820_51.239020_5.00km.png",
+      "timestamp": "2025-11-14T17:37:52.917205"
+    },
+    {
+      "cluster_id": 41,
+      "center_lat": 34.78653,
+      "center_lon": 51.22259499999999,
+      "radius_km": 2.876633403278384,
+      "num_detections": 6,
+      "detections": [
+        {
+          "lat": 34.80311,
+          "lon": 51.21712,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.80311_51.21712_1.0km.png"
+        },
+        {
+          "lat": 34.77598,
+          "lon": 51.22807,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.77598_51.22807_1.0km.png"
+        },
+        {
+          "lat": 34.78502,
+          "lon": 51.22807,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.78502_51.22807_1.0km.png"
+        },
+        {
+          "lat": 34.77598,
+          "lon": 51.21712,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.77598_51.21712_1.0km.png"
+        },
+        {
+          "lat": 34.80311,
+          "lon": 51.23902,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.80311_51.23902_1.0km.png"
+        },
+        {
+          "lat": 34.77598,
+          "lon": 51.20617,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.77598_51.20617_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The area appears to be agricultural fields with roads and irrigation lines; I don\u2019t see a distinct walled or fenced perimeter forming a single enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_41_34.786530_51.222595_5.00km.png",
+      "timestamp": "2025-11-14T17:38:25.103324"
+    },
+    {
+      "cluster_id": 42,
+      "center_lat": 34.78502,
+      "center_lon": 50.9981,
+      "radius_km": 1.5052035253117972,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 34.77598,
+          "lon": 50.9981,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.77598_50.99810_1.0km.png"
+        },
+        {
+          "lat": 34.79406,
+          "lon": 50.9981,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.79406_50.99810_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I don\u2019t see a distinct perimeter wall or continuous fencing forming a closed boundary. The scene shows rows of long rectangular features (likely panels or agricultural rows) and a few small structures, but no clear enclosed area.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_42_34.785020_50.998100_3.01km.png",
+      "timestamp": "2025-11-14T17:38:34.462508"
+    },
+    {
+      "cluster_id": 43,
+      "center_lat": 35.02618666666667,
+      "center_lon": 50.85939,
+      "radius_km": 2.1951950497755464,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 35.0292,
+          "lon": 50.85574,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.02920_50.85574_1.0km.png"
+        },
+        {
+          "lat": 35.02016,
+          "lon": 50.84479,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.02016_50.84479_1.0km.png"
+        },
+        {
+          "lat": 35.0292,
+          "lon": 50.87764,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.02920_50.87764_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows desert terrain with irrigation fields and roads. There are no clear perimeter walls or fences enclosing a cluster of buildings or a secured area that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_43_35.026187_50.859390_4.39km.png",
+      "timestamp": "2025-11-14T17:38:43.876622"
+    },
+    {
+      "cluster_id": 44,
+      "center_lat": 34.93424,
+      "center_lon": 51.310204999999996,
+      "radius_km": 1.2083202710640035,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 34.93876,
+          "lon": 51.31568,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.93876_51.31568_1.0km.png"
+        },
+        {
+          "lat": 34.92972,
+          "lon": 51.30473,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92972_51.30473_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I don\u2019t see any walled or fenced enclosure or clustered buildings. The image shows open desert terrain with a long linear corridor (road/rail) and scattered tracks, but no defined perimeter indicating an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_44_34.934240_51.310205_2.42km.png",
+      "timestamp": "2025-11-14T17:38:51.925057"
+    },
+    {
+      "cluster_id": 45,
+      "center_lat": 34.79406,
+      "center_lon": 50.86669,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 34.79406,
+          "lon": 50.86669,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.79406_50.86669_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the upper-left area there is a rectangular site with a clear perimeter wall surrounding several buildings, distinct from the adjacent fields, indicating an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_45_34.794060_50.866690_2.00km.png",
+      "timestamp": "2025-11-14T17:39:00.948864"
+    },
+    {
+      "cluster_id": 46,
+      "center_lat": 34.67649333333333,
+      "center_lon": 50.841139999999996,
+      "radius_km": 2.1715825903308223,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.67649,
+          "lon": 50.83384,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.67649_50.83384_1.0km.png"
+        },
+        {
+          "lat": 34.66745,
+          "lon": 50.83384,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.66745_50.83384_1.0km.png"
+        },
+        {
+          "lat": 34.68554,
+          "lon": 50.85574,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.68554_50.85574_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the left\u2011center of the image, the large site with the long blue\u2011roofed building is enclosed by a clear perimeter (wall/fence/berm) with limited access points and a cleared interior, consistent with an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_46_34.676493_50.841140_4.34km.png",
+      "timestamp": "2025-11-14T17:39:14.977251"
+    },
+    {
+      "cluster_id": 47,
+      "center_lat": 34.90861666666667,
+      "center_lon": 50.71338,
+      "radius_km": 1.840271367081606,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.90259,
+          "lon": 50.72433,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.90259_50.72433_1.0km.png"
+        },
+        {
+          "lat": 34.90259,
+          "lon": 50.70243,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.90259_50.70243_1.0km.png"
+        },
+        {
+          "lat": 34.92067,
+          "lon": 50.71338,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_50.71338_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. There are straight, continuous boundary lines forming a polygonal perimeter along the base of the hills, and a rectangular area with clear walls and internal structures near the top\u2014both indicative of enclosed compounds.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_47_34.908617_50.713380_3.68km.png",
+      "timestamp": "2025-11-14T17:39:29.102423"
+    },
+    {
+      "cluster_id": 48,
+      "center_lat": 34.9500675,
+      "center_lon": 50.76813,
+      "radius_km": 2.9729213168524233,
+      "num_detections": 4,
+      "detections": [
+        {
+          "lat": 34.96589,
+          "lon": 50.76813,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.96589_50.76813_1.0km.png"
+        },
+        {
+          "lat": 34.92972,
+          "lon": 50.75718,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92972_50.75718_1.0km.png"
+        },
+        {
+          "lat": 34.94781,
+          "lon": 50.77908,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.94781_50.77908_1.0km.png"
+        },
+        {
+          "lat": 34.95685,
+          "lon": 50.76813,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.95685_50.76813_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I don\u2019t see clear perimeter walls, continuous fencing, or a defined rectangular/irregular boundary enclosing buildings. The structures appear spread out in an open, industrial/desert area without an obvious enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_48_34.950068_50.768130_5.00km.png",
+      "timestamp": "2025-11-14T17:39:37.785163"
+    },
+    {
+      "cluster_id": 49,
+      "center_lat": 34.898065,
+      "center_lon": 50.773605,
+      "radius_km": 1.208869840241099,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 34.89354,
+          "lon": 50.77908,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.89354_50.77908_1.0km.png"
+        },
+        {
+          "lat": 34.90259,
+          "lon": 50.76813,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.90259_50.76813_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The area appears to be open desert with linear tracks and scattered features. I don\u2019t see a distinct perimeter fence or wall forming a closed boundary around structures that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_49_34.898065_50.773605_2.42km.png",
+      "timestamp": "2025-11-14T17:39:45.509483"
+    },
+    {
+      "cluster_id": 50,
+      "center_lat": 34.700008000000004,
+      "center_lon": 50.8864,
+      "radius_km": 3.042532661514309,
+      "num_detections": 5,
+      "detections": [
+        {
+          "lat": 34.68554,
+          "lon": 50.89954,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.68554_50.89954_1.0km.png"
+        },
+        {
+          "lat": 34.71267,
+          "lon": 50.88859,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.71267_50.88859_1.0km.png"
+        },
+        {
+          "lat": 34.72171,
+          "lon": 50.87764,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.72171_50.87764_1.0km.png"
+        },
+        {
+          "lat": 34.68554,
+          "lon": 50.88859,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.68554_50.88859_1.0km.png"
+        },
+        {
+          "lat": 34.69458,
+          "lon": 50.87764,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.69458_50.87764_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. Near the center-bottom of the image there is a rectangular facility with clear perimeter boundaries and controlled access from the road, indicating a walled/fenced compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_50_34.700008_50.886400_5.00km.png",
+      "timestamp": "2025-11-14T17:40:06.508969"
+    },
+    {
+      "cluster_id": 51,
+      "center_lat": 34.82119,
+      "center_lon": 51.14046,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 34.82119,
+          "lon": 51.14046,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.82119_51.14046_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the upper-right area there is a cluster of buildings within a clearly defined rectangular boundary, likely a fence or wall, with an apparent entry from the adjacent road\u2014indicative of an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_51_34.821190_51.140460_2.00km.png",
+      "timestamp": "2025-11-14T17:40:32.576494"
+    },
+    {
+      "cluster_id": 52,
+      "center_lat": 34.699105,
+      "center_lon": 51.167835,
+      "radius_km": 1.2097201444032537,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 34.69458,
+          "lon": 51.16236,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.69458_51.16236_1.0km.png"
+        },
+        {
+          "lat": 34.70363,
+          "lon": 51.17331,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.70363_51.17331_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. There is a large rectangular area with clear perimeter boundaries forming an enclosure, distinct from the surrounding terrain and subdivided into internal plots\u2014indicative of an enclosed compound or walled agricultural area.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_52_34.699105_51.167835_2.42km.png",
+      "timestamp": "2025-11-14T17:41:35.552625"
+    },
+    {
+      "cluster_id": 53,
+      "center_lat": 34.79406,
+      "center_lon": 51.19156666666667,
+      "radius_km": 2.167095297359535,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.79406,
+          "lon": 51.19522,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.79406_51.19522_1.0km.png"
+        },
+        {
+          "lat": 34.79406,
+          "lon": 51.20617,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.79406_51.20617_1.0km.png"
+        },
+        {
+          "lat": 34.79406,
+          "lon": 51.17331,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.79406_51.17331_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the lower-right quadrant, just above the east\u2013west road, there is a square/rectangular area with a clear perimeter wall and several structures inside, separated from the surrounding fields. A track appears to lead to a gate, indicating an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_53_34.794060_51.191567_4.33km.png",
+      "timestamp": "2025-11-14T17:42:07.937749"
+    },
+    {
+      "cluster_id": 54,
+      "center_lat": 34.839283333333334,
+      "center_lon": 50.957950000000004,
+      "radius_km": 1.7062707033324296,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.84833,
+          "lon": 50.9543,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.84833_50.95430_1.0km.png"
+        },
+        {
+          "lat": 34.83024,
+          "lon": 50.96525,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.83024_50.96525_1.0km.png"
+        },
+        {
+          "lat": 34.83928,
+          "lon": 50.9543,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.83928_50.95430_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. Near the left-center of the image there is a rectangular, clearly bounded area with straight perimeter walls and one or two structures inside/adjacent, accessible by a track\u2014typical of an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_54_34.839283_50.957950_3.41km.png",
+      "timestamp": "2025-11-14T17:42:21.479423"
+    },
+    {
+      "cluster_id": 55,
+      "center_lat": 34.997545,
+      "center_lon": 51.15141,
+      "radius_km": 2.0083612633678545,
+      "num_detections": 4,
+      "detections": [
+        {
+          "lat": 35.01111,
+          "lon": 51.15141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.01111_51.15141_1.0km.png"
+        },
+        {
+          "lat": 35.00207,
+          "lon": 51.15141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.00207_51.15141_1.0km.png"
+        },
+        {
+          "lat": 34.99302,
+          "lon": 51.15141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.99302_51.15141_1.0km.png"
+        },
+        {
+          "lat": 34.98398,
+          "lon": 51.15141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.98398_51.15141_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows open desert with linear infrastructure (likely a road/rail/pipeline) and scattered tracks. There are no visible perimeter walls, fences, or grouped buildings forming an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_55_34.997545_51.151410_4.02km.png",
+      "timestamp": "2025-11-14T17:42:32.011657"
+    },
+    {
+      "cluster_id": 56,
+      "center_lat": 34.93574666666667,
+      "center_lon": 50.687823333333334,
+      "radius_km": 2.389959268909837,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.92067,
+          "lon": 50.68052,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_50.68052_1.0km.png"
+        },
+        {
+          "lat": 34.93876,
+          "lon": 50.68052,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.93876_50.68052_1.0km.png"
+        },
+        {
+          "lat": 34.94781,
+          "lon": 50.70243,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.94781_50.70243_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The image shows open desert terrain, hills, and agricultural fields. There are no visible perimeter walls or clearly defined rectangular enclosures with buildings that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_56_34.935747_50.687823_4.78km.png",
+      "timestamp": "2025-11-14T17:42:40.740681"
+    },
+    {
+      "cluster_id": 57,
+      "center_lat": 34.91615,
+      "center_lon": 51.102135000000004,
+      "radius_km": 2.0797401307092755,
+      "num_detections": 4,
+      "detections": [
+        {
+          "lat": 34.92067,
+          "lon": 51.08571,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_51.08571_1.0km.png"
+        },
+        {
+          "lat": 34.92067,
+          "lon": 51.10761,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92067_51.10761_1.0km.png"
+        },
+        {
+          "lat": 34.91163,
+          "lon": 51.09666,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.91163_51.09666_1.0km.png"
+        },
+        {
+          "lat": 34.91163,
+          "lon": 51.11856,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.91163_51.11856_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene appears to be natural desert/rock terrain with no visible rectilinear boundaries, perimeter walls, or clustered buildings that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_57_34.916150_51.102135_4.16km.png",
+      "timestamp": "2025-11-14T17:42:49.706009"
+    },
+    {
+      "cluster_id": 58,
+      "center_lat": 34.895352,
+      "center_lon": 51.15141,
+      "radius_km": 2.5074830011132527,
+      "num_detections": 5,
+      "detections": [
+        {
+          "lat": 34.89354,
+          "lon": 51.14046,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.89354_51.14046_1.0km.png"
+        },
+        {
+          "lat": 34.90259,
+          "lon": 51.16236,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.90259_51.16236_1.0km.png"
+        },
+        {
+          "lat": 34.89354,
+          "lon": 51.17331,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.89354_51.17331_1.0km.png"
+        },
+        {
+          "lat": 34.90259,
+          "lon": 51.14046,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.90259_51.14046_1.0km.png"
+        },
+        {
+          "lat": 34.8845,
+          "lon": 51.14046,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.88450_51.14046_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I only see a road along the left edge and natural desert terrain with drainage patterns. There are no visible perimeter walls, fences, rectilinear boundaries, or clusters of buildings that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_58_34.895352_51.151410_5.00km.png",
+      "timestamp": "2025-11-14T17:42:59.932456"
+    },
+    {
+      "cluster_id": 59,
+      "center_lat": 34.89354285714286,
+      "center_lon": 50.98715,
+      "radius_km": 2.511201301195137,
+      "num_detections": 7,
+      "detections": [
+        {
+          "lat": 34.89354,
+          "lon": 50.9981,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.89354_50.99810_1.0km.png"
+        },
+        {
+          "lat": 34.90259,
+          "lon": 50.9762,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.90259_50.97620_1.0km.png"
+        },
+        {
+          "lat": 34.91163,
+          "lon": 50.98715,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.91163_50.98715_1.0km.png"
+        },
+        {
+          "lat": 34.87546,
+          "lon": 50.98715,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.87546_50.98715_1.0km.png"
+        },
+        {
+          "lat": 34.89354,
+          "lon": 50.9762,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.89354_50.97620_1.0km.png"
+        },
+        {
+          "lat": 34.89354,
+          "lon": 50.98715,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.89354_50.98715_1.0km.png"
+        },
+        {
+          "lat": 34.8845,
+          "lon": 50.9981,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.88450_50.99810_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes\u2014there are areas that appear to be enclosed by perimeter boundaries. Notably, a rectangular fenced/walled area is visible in the lower-left quadrant, and the building cluster in the upper-left also seems to sit within a defined perimeter.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_59_34.893543_50.987150_5.00km.png",
+      "timestamp": "2025-11-14T17:43:15.603122"
+    },
+    {
+      "cluster_id": 60,
+      "center_lat": 34.649365,
+      "center_lon": 50.915965,
+      "radius_km": 2.308092812905583,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 34.65841,
+          "lon": 50.89954,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.65841_50.89954_1.0km.png"
+        },
+        {
+          "lat": 34.64032,
+          "lon": 50.93239,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.64032_50.93239_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The area shows typical urban blocks, streets, and open lots. I don\u2019t see a distinct site with a continuous perimeter wall or fencing enclosing multiple buildings that would indicate a single compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_60_34.649365_50.915965_4.62km.png",
+      "timestamp": "2025-11-14T17:43:23.414540"
+    },
+    {
+      "cluster_id": 61,
+      "center_lat": 34.875455,
+      "center_lon": 50.806455,
+      "radius_km": 1.6229567500685786,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 34.8845,
+          "lon": 50.81193,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.88450_50.81193_1.0km.png"
+        },
+        {
+          "lat": 34.86641,
+          "lon": 50.80098,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.86641_50.80098_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. Near the lower center of the image there is a distinct square/rectangular walled area with a defined perimeter and interior structures, consistent with an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_61_34.875455_50.806455_3.25km.png",
+      "timestamp": "2025-11-14T17:43:42.109492"
+    },
+    {
+      "cluster_id": 62,
+      "center_lat": 34.66745,
+      "center_lon": 51.15506,
+      "radius_km": 1.7066885772377778,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.67649,
+          "lon": 51.16236,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.67649_51.16236_1.0km.png"
+        },
+        {
+          "lat": 34.65841,
+          "lon": 51.15141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.65841_51.15141_1.0km.png"
+        },
+        {
+          "lat": 34.66745,
+          "lon": 51.15141,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.66745_51.15141_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I don\u2019t see any clear rectangular or walled perimeter, fencing, or gate structures. The image shows a straight linear corridor (likely a road/track or pipeline) with scattered features and natural terrain, but no enclosed compound is evident.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_62_34.667450_51.155060_3.41km.png",
+      "timestamp": "2025-11-14T17:43:51.999320"
+    },
+    {
+      "cluster_id": 63,
+      "center_lat": 34.7398,
+      "center_lon": 51.27187,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 34.7398,
+          "lon": 51.27187,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.73980_51.27187_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows open desert with scattered dark spots (likely vegetation or small features) and faint tracks. There are no visible rectilinear walls, perimeter fencing, clustered buildings, or gate/road patterns that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_63_34.739800_51.271870_2.00km.png",
+      "timestamp": "2025-11-14T17:43:59.378318"
+    },
+    {
+      "cluster_id": 64,
+      "center_lat": 34.78502,
+      "center_lon": 50.81558333333333,
+      "radius_km": 1.7065004246623463,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.79406,
+          "lon": 50.82289,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.79406_50.82289_1.0km.png"
+        },
+        {
+          "lat": 34.78502,
+          "lon": 50.81193,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.78502_50.81193_1.0km.png"
+        },
+        {
+          "lat": 34.77598,
+          "lon": 50.81193,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.77598_50.81193_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. Near the center-right by the road there is a small rectangular area surrounded by walls with structures inside, indicating an enclosed compound. Several industrial yards on the left also appear fenced.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_64_34.785020_50.815583_3.41km.png",
+      "timestamp": "2025-11-14T17:44:09.383455"
+    },
+    {
+      "cluster_id": 65,
+      "center_lat": 34.94479333333334,
+      "center_lon": 50.86669,
+      "radius_km": 2.1760805093868036,
+      "num_detections": 3,
+      "detections": [
+        {
+          "lat": 34.95685,
+          "lon": 50.86669,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.95685_50.86669_1.0km.png"
+        },
+        {
+          "lat": 34.92972,
+          "lon": 50.86669,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.92972_50.86669_1.0km.png"
+        },
+        {
+          "lat": 34.94781,
+          "lon": 50.86669,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.94781_50.86669_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes\u2014on the right side of the image there is a cluster of buildings bounded by straight perimeter lines forming a roughly rectangular area with an access road, indicative of a fenced/walled compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_65_34.944793_50.866690_4.35km.png",
+      "timestamp": "2025-11-14T17:44:24.387642"
+    },
+    {
+      "cluster_id": 66,
+      "center_lat": 35.08346,
+      "center_lon": 50.98715,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 35.08346,
+          "lon": 50.98715,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.08346_50.98715_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the upper-right/upper-center area there is a large rectangular site with a clear perimeter wall/fence enclosing multiple buildings, distinct from the surrounding settlement. Smaller walled yards are also visible nearby.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_66_35.083460_50.987150_2.00km.png",
+      "timestamp": "2025-11-14T17:44:36.292082"
+    },
+    {
+      "cluster_id": 67,
+      "center_lat": 34.64032,
+      "center_lon": 50.98715,
+      "radius_km": 1.5052035253117972,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 34.63128,
+          "lon": 50.98715,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.63128_50.98715_1.0km.png"
+        },
+        {
+          "lat": 34.64936,
+          "lon": 50.98715,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.64936_50.98715_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the lower-left quadrant there is a rectangular area clearly bounded by walls or fencing, containing several buildings and long roofed structures, separated from the surrounding fields\u2014indicative of an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_67_34.640320_50.987150_3.01km.png",
+      "timestamp": "2025-11-14T17:44:45.738565"
+    },
+    {
+      "cluster_id": 68,
+      "center_lat": 34.74432,
+      "center_lon": 50.94335,
+      "radius_km": 1.0026017626555035,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 34.7398,
+          "lon": 50.94335,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.73980_50.94335_1.0km.png"
+        },
+        {
+          "lat": 34.74884,
+          "lon": 50.94335,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.74884_50.94335_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. There is a clear rectangular area with a defined perimeter (walls/fence) near the top-right of the image, containing dark piles/materials. This indicates an enclosed compound; smaller walled sections also appear near the top-left.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_68_34.744320_50.943350_2.01km.png",
+      "timestamp": "2025-11-14T17:44:54.797550"
+    },
+    {
+      "cluster_id": 69,
+      "center_lat": 34.76693,
+      "center_lon": 51.11856,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 34.76693,
+          "lon": 51.11856,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.76693_51.11856_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows open desert terrain with roads and some agricultural plots, but no clearly defined perimeter walls, fences, or clusters of buildings that indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_69_34.766930_51.118560_2.00km.png",
+      "timestamp": "2025-11-14T17:45:02.274505"
+    },
+    {
+      "cluster_id": 70,
+      "center_lat": 35.00207,
+      "center_lon": 50.70243,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 35.00207,
+          "lon": 50.70243,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_35.00207_50.70243_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes\u2014there is a long, straight boundary forming a sharp corner, resembling a perimeter wall or fence with a track alongside it, which is typical of an enclosed compound even though the full enclosure isn\u2019t fully visible.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_70_35.002070_50.702430_2.00km.png",
+      "timestamp": "2025-11-14T17:45:16.209455"
+    },
+    {
+      "cluster_id": 71,
+      "center_lat": 34.69458,
+      "center_lon": 51.11856,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 34.69458,
+          "lon": 51.11856,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.69458_51.11856_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene shows open agricultural fields, desert terrain, and a roadway interchange. There are no visible perimeter walls, fences, or clusters of buildings that would indicate a secured or enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_71_34.694580_51.118560_2.00km.png",
+      "timestamp": "2025-11-14T17:45:28.215294"
+    },
+    {
+      "cluster_id": 72,
+      "center_lat": 34.8845,
+      "center_lon": 51.32663,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 34.8845,
+          "lon": 51.32663,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.88450_51.32663_1.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "The scene appears to be natural terrain with geological striations and no clear straight-edged perimeters, fences, or clusters of structures that would indicate an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_72_34.884500_51.326630_2.00km.png",
+      "timestamp": "2025-11-14T17:45:44.224300"
+    },
+    {
+      "cluster_id": 73,
+      "center_lat": 34.83024,
+      "center_lon": 51.00905,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 34.83024,
+          "lon": 51.00905,
+          "distance": 1.0,
+          "name": "DF",
+          "filename": "DF_34.83024_51.00905_1.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "A large rectangular walled area with distinct perimeter walls and interior structures is visible near the center-right, consistent with an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_73_34.830240_51.009050_2.00km.png",
+      "timestamp": "2025-11-14T17:45:54.242784"
     }
   ],
-  "timestamp": "2025-11-14T02:10:45.498599"
+  "timestamp": "2025-11-14T17:45:54.448062"
 }

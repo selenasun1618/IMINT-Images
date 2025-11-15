@@ -1,0 +1,37 @@
+{
+  "last_processed": 1247,
+  "saved_in_this_run": 4,
+  "total": 1247,
+  "detected_coordinates": [
+    {
+      "latitude": 51.52,
+      "longitude": 45.85563301468825,
+      "explanation": "The image shows a grid-like pattern of structures that resemble bunkers or storage facilities, which are typical for housing warheads. The layout and design suggest a military storage site, possibly for warheads.",
+      "index": 617,
+      "timestamp": "2025-11-14T22:41:20.538588"
+    },
+    {
+      "latitude": 51.53808743465915,
+      "longitude": 45.59577244112712,
+      "explanation": "The image shows a facility with multiple layers of fencing, which is a common security measure for areas containing sensitive materials. The presence of a mound with structures that could serve as entrances to underground bunkers suggests the potential storage of warheads. The cleared perimeter around the fencing further indicates a high-security area.",
+      "index": 649,
+      "timestamp": "2025-11-14T22:43:55.596501"
+    },
+    {
+      "latitude": 51.66469947727314,
+      "longitude": 45.97112660293765,
+      "explanation": "The image shows a facility with multiple layers of fencing and several structures that resemble silos or bunkers, which are typical indicators of a site that may contain warheads. The presence of these features suggests a high-security area consistent with warhead storage.",
+      "index": 933,
+      "timestamp": "2025-11-14T23:07:51.030908"
+    },
+    {
+      "latitude": 51.79131151988714,
+      "longitude": 46.0577467941247,
+      "explanation": "The image shows a facility with multiple layers of fencing, which is a common indicator of a secure area potentially housing sensitive materials. The concentric fencing around the structures suggests the presence of underground bunkers or storage facilities, which are typical for housing warheads or nuclear materials. The layout and security measures imply a high level of protection consistent with such materials.",
+      "index": 1164,
+      "timestamp": "2025-11-14T23:25:30.177766"
+    }
+  ],
+  "detected_count": 4,
+  "timestamp": "2025-11-14T23:31:24.593671"
+}
