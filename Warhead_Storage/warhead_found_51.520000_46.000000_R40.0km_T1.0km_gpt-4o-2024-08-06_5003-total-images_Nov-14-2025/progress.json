@@ -1,8 +1,65 @@
 {
-  "last_processed": 134,
-  "saved_in_this_run": 0,
+  "last_processed": 5003,
+  "saved_in_this_run": 8,
   "total": 5003,
-  "detected_coordinates": [],
-  "detected_count": 0,
-  "timestamp": "2025-11-14T02:04:43.302642"
+  "detected_coordinates": [
+    {
+      "latitude": 51.456693978693,
+      "longitude": 46.25986057356114,
+      "explanation": "The image shows a structure that resembles a missile silo or launch facility. The presence of a mound with a possible entrance and the surrounding cleared area suggest a military installation. These features are consistent with sites that could house warheads.",
+      "index": 1958,
+      "timestamp": "2025-11-14T07:02:59.820796"
+    },
+    {
+      "latitude": 51.49286884801129,
+      "longitude": 45.56689904406476,
+      "explanation": "The image shows a facility with multiple layers of fencing, which is a typical sign of a secure area potentially housing nuclear materials. The layout includes several buildings and structures that could serve as entrances to underground bunkers or storage facilities. The presence of cleared areas around the perimeter further suggests security measures consistent with the storage of sensitive materials such as warheads.",
+      "index": 2226,
+      "timestamp": "2025-11-14T07:50:12.739309"
+    },
+    {
+      "latitude": 51.49286884801129,
+      "longitude": 46.216550477967616,
+      "explanation": "The image shows a facility with multiple layers of fencing and distinct structures that resemble bunkers or storage facilities. The layout and security measures suggest the presence of sensitive materials, such as warheads.",
+      "index": 2271,
+      "timestamp": "2025-11-14T07:55:42.467368"
+    },
+    {
+      "latitude": 51.610437173295715,
+      "longitude": 45.494715551408895,
+      "explanation": "The image shows a facility with multiple layers of fencing and a distinct geometric layout, which is characteristic of military or secure installations. The presence of vehicles and structures within the fenced area suggests it could be a site related to warhead storage or handling.",
+      "index": 3255,
+      "timestamp": "2025-11-14T10:15:28.480304"
+    },
+    {
+      "latitude": 51.709918063920995,
+      "longitude": 46.15880368384292,
+      "explanation": "The image shows a facility with multiple layers of fencing and a secured perimeter, which is indicative of a high-security area. There are also structures that could serve as entrances to underground bunkers, suggesting the presence of sensitive materials such as warheads.",
+      "index": 4110,
+      "timestamp": "2025-11-14T12:14:08.540805"
+    },
+    {
+      "latitude": 51.71896178125057,
+      "longitude": 46.17324038237409,
+      "explanation": "The image shows a facility with multiple layers of fencing around a central structure, which is indicative of a secure area. The presence of a mound with a building sticking into it suggests an underground bunker, a common feature in facilities storing sensitive materials like warheads. The layout and security measures are consistent with those used for nuclear material storage.",
+      "index": 4179,
+      "timestamp": "2025-11-14T12:22:37.387025"
+    },
+    {
+      "latitude": 51.75513665056885,
+      "longitude": 45.927816507344126,
+      "explanation": "The image shows a facility with multiple layers of fencing, which is a common security measure for areas containing sensitive materials. There are also structures that could serve as entrances to underground bunkers, suggesting the presence of nuclear materials or warheads.",
+      "index": 4419,
+      "timestamp": "2025-11-14T12:49:36.364462"
+    },
+    {
+      "latitude": 51.84557382386456,
+      "longitude": 46.12993028678057,
+      "explanation": "The image shows a facility with multiple layers of fencing, which is a common security measure for areas containing sensitive materials. There are also buildings that could serve as entrances to underground bunkers, suggesting the presence of nuclear materials or warheads.",
+      "index": 4928,
+      "timestamp": "2025-11-14T13:54:24.302535"
+    }
+  ],
+  "detected_count": 8,
+  "timestamp": "2025-11-14T14:03:08.084736"
 }

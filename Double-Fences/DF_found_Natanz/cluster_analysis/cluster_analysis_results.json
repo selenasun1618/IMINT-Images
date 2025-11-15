@@ -1,5 +1,5 @@
 {
-  "folder": "../IMINT-Images/Double-Fences/DF_found_33.725500_51.725800_R30.0km_T1.0km_gpt-4o-2024-08-06_2811-total-images_Oct-24-2025",
+  "folder": "../IMINT-Images/Double-Fences/DF_found_Natanz",
   "total_detections": 107,
   "num_clusters": 4,
   "clustering_params": {
@@ -365,10 +365,10 @@
           "filename": "DF_33.92446_51.58539_1.0km.png"
         }
       ],
-      "compound_present": "no",
-      "explanation": "The scene shows a runway and surrounding barren terrain with scattered tracks and features, but no clear perimeter walls, fences, or a defined boundary enclosing a group of structures.",
-      "image_path": "../IMINT-Images/Double-Fences/DF_found_33.725500_51.725800_R30.0km_T1.0km_gpt-4o-2024-08-06_2811-total-images_Oct-24-2025/cluster_analysis/cluster_1_33.891724_51.586253_2.0km.png",
-      "timestamp": "2025-11-14T01:55:02.886318"
+      "compound_present": "yes",
+      "explanation": "Yes. There are clusters of structures with clear perimeter boundaries/walls\u2014particularly near the upper center by the road and on the left side\u2014indicating enclosed compounds.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Natanz/cluster_analysis/cluster_1_33.891724_51.586253_5.00km.png",
+      "timestamp": "2025-11-14T02:11:40.510737"
     },
     {
       "cluster_id": 2,
@@ -631,9 +631,9 @@
         }
       ],
       "compound_present": "yes",
-      "explanation": "Yes. In the lower-left quadrant there is a large rectangular area with straight perimeter lines forming a clear boundary/berm, enclosing several structures and internal roads, with what appears to be an entry point. There are also faint rectilinear boundaries nearby.",
-      "image_path": "../IMINT-Images/Double-Fences/DF_found_33.725500_51.725800_R30.0km_T1.0km_gpt-4o-2024-08-06_2811-total-images_Oct-24-2025/cluster_analysis/cluster_2_33.754892_51.812807_2.0km.png",
-      "timestamp": "2025-11-14T01:55:12.079111"
+      "explanation": "Yes. There are distinct rectangular enclosures with clear perimeter lines/walls, particularly one just left of center and another large rectangle on the right side, indicating fenced compounds.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Natanz/cluster_analysis/cluster_2_33.754892_51.812807_5.00km.png",
+      "timestamp": "2025-11-14T02:11:52.693529"
     },
     {
       "cluster_id": 3,
@@ -714,9 +714,9 @@
         }
       ],
       "compound_present": "no",
-      "explanation": "The scene shows open desert with linear roads or tracks and a canal-like feature. There are no clear perimeter walls or fences forming a closed boundary around structures that would indicate an enclosed compound.",
-      "image_path": "../IMINT-Images/Double-Fences/DF_found_33.725500_51.725800_R30.0km_T1.0km_gpt-4o-2024-08-06_2811-total-images_Oct-24-2025/cluster_analysis/cluster_3_33.621496_51.978540_2.0km.png",
-      "timestamp": "2025-11-14T01:55:23.513592"
+      "explanation": "I don\u2019t see any clearly defined perimeter walls or fencing forming a closed area. The image shows desert terrain with intersecting roads and a few small structures or disturbed patches, but no rectangular or enclosed compound is apparent.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Natanz/cluster_analysis/cluster_3_33.621496_51.978540_5.00km.png",
+      "timestamp": "2025-11-14T02:12:03.047860"
     },
     {
       "cluster_id": 4,
@@ -747,11 +747,11 @@
           "filename": "DF_33.65315_51.74740_1.0km.png"
         }
       ],
-      "compound_present": "no",
-      "explanation": "I don\u2019t see any walled or fenced perimeters, rectangular outlines, clusters of buildings, or gate/road checkpoints. The image appears to show natural terrain with faint tracks and erosion patterns, not an enclosed compound.",
-      "image_path": "../IMINT-Images/Double-Fences/DF_found_33.725500_51.725800_R30.0km_T1.0km_gpt-4o-2024-08-06_2811-total-images_Oct-24-2025/cluster_analysis/cluster_4_33.635063_51.743800_2.0km.png",
-      "timestamp": "2025-11-14T01:55:32.312019"
+      "compound_present": "yes",
+      "explanation": "Yes. There are clearly defined, walled or fenced perimeters: a rectangular enclosure with buildings at the upper right and another polygonal walled area with structures toward the left-center, suggesting enclosed compounds.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Natanz/cluster_analysis/cluster_4_33.635063_51.743800_5.00km.png",
+      "timestamp": "2025-11-14T02:12:12.008753"
     }
   ],
-  "timestamp": "2025-11-14T01:55:32.517666"
+  "timestamp": "2025-11-14T02:12:12.210766"
 }

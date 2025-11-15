@@ -1703,10 +1703,10 @@
         }
       ],
       "compound_present": "no",
-      "explanation": "I don\u2019t see any man\u2011made enclosures, perimeter walls, fences, or clusters of buildings. The scene appears to be natural rocky terrain without clear boundaries that would indicate an enclosed compound.",
-      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_1_34.866375_50.993647_2.0km.png",
-      "timestamp": "2025-11-14T02:02:33.074374"
+      "explanation": "The image shows open rocky terrain with some linear tracks/roads but no visible perimeter walls or fencing forming a closed boundary, and no clustered structures typical of an enclosed compound.",
+      "image_path": "../IMINT-Images/Double-Fences/DF_found_Fordow/cluster_analysis/cluster_1_34.866375_50.993647_5.00km.png",
+      "timestamp": "2025-11-14T02:10:45.292993"
     }
   ],
-  "timestamp": "2025-11-14T02:02:33.275364"
+  "timestamp": "2025-11-14T02:10:45.498599"
 }
