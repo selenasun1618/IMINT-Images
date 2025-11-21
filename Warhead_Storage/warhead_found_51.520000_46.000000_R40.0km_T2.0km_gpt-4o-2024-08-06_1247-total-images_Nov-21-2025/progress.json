@@ -1,0 +1,86 @@
+{
+  "last_processed": 1247,
+  "saved_in_this_run": 11,
+  "total": 1247,
+  "detected_coordinates": [
+    {
+      "latitude": 51.483825130681716,
+      "longitude": 46.25986057356114,
+      "explanation": "The image shows a facility with multiple layers of fencing surrounding a series of buildings and mounds. The concentric dark lines indicate multiple layers of security fencing, which is a typical sign of a protected area. The presence of mounds suggests possible underground bunkers, and the buildings may serve as entrances or storage facilities. The cleared perimeter around the fencing further supports the presence of a secured area, likely indicating nuclear material presence.",
+      "index": 552,
+      "timestamp": "2025-11-21T08:58:23.046115"
+    },
+    {
+      "latitude": 51.52,
+      "longitude": 45.85563301468825,
+      "explanation": "The image shows a series of structures that appear to be surrounded by multiple layers of fencing, which is a typical sign of physical protection for nuclear materials. The layout suggests a secured area with possible underground bunkers, as indicated by the presence of small structures that could be ventilation outlets. The area is cleared of trees along the perimeter, further suggesting a secured facility.",
+      "index": 617,
+      "timestamp": "2025-11-21T09:06:06.824443"
+    },
+    {
+      "latitude": 51.53808743465915,
+      "longitude": 45.59577244112712,
+      "explanation": "The image shows a facility with multiple layers of fencing, visible as concentric dark lines around a central area. This suggests a high-security enclosure typical of sites with nuclear material. Additionally, there are structures that could serve as entrances to underground bunkers, and the area is cleared of trees along the perimeter, further indicating the presence of nuclear material.",
+      "index": 649,
+      "timestamp": "2025-11-21T09:10:24.741639"
+    },
+    {
+      "latitude": 51.53808743465915,
+      "longitude": 45.68239263231416,
+      "explanation": "The image shows a facility with multiple layers of fencing surrounding a central building, which is indicative of a high-security area. The presence of concentric dark lines suggests multiple layers of fencing. Additionally, there are small structures that could be ventilation outlets, indicating the possibility of an underground bunker. The area is cleared of trees along the perimeter, further suggesting the need for security and visibility, which aligns with the characteristics of a site that might house nuclear materials.",
+      "index": 652,
+      "timestamp": "2025-11-21T09:10:41.894224"
+    },
+    {
+      "latitude": 51.53808743465915,
+      "longitude": 45.85563301468825,
+      "explanation": "The image shows a fenced enclosure with multiple layers of fencing around a building, which is indicative of a secure area. The building is located within a mound, suggesting the presence of an underground bunker. The fencing is clearly visible, and there are no trees obstructing the perimeter, which aligns with typical security measures for nuclear material storage.",
+      "index": 658,
+      "timestamp": "2025-11-21T09:11:23.408935"
+    },
+    {
+      "latitude": 51.55617486931828,
+      "longitude": 45.48027885287772,
+      "explanation": "The image shows a structure with multiple layers of fencing, which appear as concentric dark lines around a central area. This is indicative of a secured enclosure. Additionally, there is a mound-like structure within the fenced area, suggesting the presence of an underground bunker. These features align with typical signs of nuclear material presence.",
+      "index": 685,
+      "timestamp": "2025-11-21T09:14:27.252667"
+    },
+    {
+      "latitude": 51.700874346591426,
+      "longitude": 45.538025647002414,
+      "explanation": "The image shows a facility with multiple layers of fencing surrounding a central area, which is indicative of high-security measures. There are several buildings within the fenced area, some of which appear to be built into mounds, suggesting the presence of underground bunkers. The perimeter is clear of trees, which aligns with typical security practices for sites containing nuclear materials.",
+      "index": 989,
+      "timestamp": "2025-11-21T09:47:32.119038"
+    },
+    {
+      "latitude": 51.71896178125057,
+      "longitude": 45.797886220563555,
+      "explanation": "The image shows a structure with multiple layers of fencing, visible as concentric dark lines around a central area. This suggests a high-security enclosure typical of facilities storing nuclear materials. Additionally, there are mounds and possible ventilation structures, indicating the presence of underground bunkers. The surrounding area is cleared of trees, which aligns with security measures for such sites.",
+      "index": 1032,
+      "timestamp": "2025-11-21T09:51:50.530357"
+    },
+    {
+      "latitude": 51.71896178125057,
+      "longitude": 46.086620191187045,
+      "explanation": "The image shows a structure surrounded by multiple layers of fencing, which is a key indicator of nuclear material presence. The fencing appears as dark lines concentric around the building, suggesting a need for physical protection. Additionally, the building is located on a mound, which could indicate an underground bunker. These features align with typical signs of nuclear material storage.",
+      "index": 1042,
+      "timestamp": "2025-11-21T09:52:56.025410"
+    },
+    {
+      "latitude": 51.75513665056885,
+      "longitude": 45.68239263231416,
+      "explanation": "The image shows a distinct enclosure with multiple layers of fencing, visible as dark lines concentric around a central area. This suggests a high-security area typical of nuclear material storage. Additionally, there is a mound-like structure within the fenced area, which could indicate an underground bunker. The presence of cleared areas around the perimeter further supports the possibility of nuclear material presence.",
+      "index": 1093,
+      "timestamp": "2025-11-21T09:58:50.969759"
+    },
+    {
+      "latitude": 51.79131151988714,
+      "longitude": 46.0577467941247,
+      "explanation": "The image shows a structure with multiple layers of fencing, which appear as concentric dark lines around a central area. This is indicative of a secured facility. Additionally, there are buildings within the fenced area that could serve as entrances to underground bunkers or storage facilities. The presence of these features suggests the potential for nuclear material storage.",
+      "index": 1164,
+      "timestamp": "2025-11-21T10:06:23.793037"
+    }
+  ],
+  "detected_count": 11,
+  "timestamp": "2025-11-21T10:15:57.572063"
+}

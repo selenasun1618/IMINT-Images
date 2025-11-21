@@ -1,0 +1,218 @@
+{
+  "folder": "../IMINT-Images/Warhead_Storage/warhead_found_51.520000_46.000000_R40.0km_T2.0km_gpt-4o-2024-08-06_1247-total-images_Nov-21-2025",
+  "total_detections": 11,
+  "num_clusters": 10,
+  "clustering_params": {
+    "max_radius_km": 5.0
+  },
+  "results": [
+    {
+      "cluster_id": 1,
+      "center_lat": 51.70087,
+      "center_lon": 45.53803,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 51.70087,
+          "lon": 45.53803,
+          "distance": 2.0,
+          "name": "warhead",
+          "filename": "warhead_51.70087_45.53803_2.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. The image shows a rectangular area with a continuous perimeter berm/ditch forming a closed boundary, with apparent controlled entry points on the south side and multiple buildings and roads inside\u2014indicative of an enclosed compound.",
+      "image_path": "../IMINT-Images/Warhead_Storage/warhead_found_51.520000_46.000000_R40.0km_T2.0km_gpt-4o-2024-08-06_1247-total-images_Nov-21-2025/cluster_analysis/cluster_1_51.700870_45.538030_2.00km.png",
+      "timestamp": "2025-11-21T10:27:43.216200"
+    },
+    {
+      "cluster_id": 2,
+      "center_lat": 51.529044999999996,
+      "center_lon": 45.85563,
+      "radius_km": 1.5057595007123512,
+      "num_detections": 2,
+      "detections": [
+        {
+          "lat": 51.53809,
+          "lon": 45.85563,
+          "distance": 2.0,
+          "name": "warhead",
+          "filename": "warhead_51.53809_45.85563_2.0km.png"
+        },
+        {
+          "lat": 51.52,
+          "lon": 45.85563,
+          "distance": 2.0,
+          "name": "warhead",
+          "filename": "warhead_51.52000_45.85563_2.0km.png"
+        }
+      ],
+      "compound_present": "no",
+      "explanation": "I don\u2019t see a clearly defined walled or fenced perimeter with interior structures. The scene appears to be open terrain with tracks and natural formations; no distinct compound boundaries are visible.",
+      "image_path": "../IMINT-Images/Warhead_Storage/warhead_found_51.520000_46.000000_R40.0km_T2.0km_gpt-4o-2024-08-06_1247-total-images_Nov-21-2025/cluster_analysis/cluster_2_51.529045_45.855630_3.01km.png",
+      "timestamp": "2025-11-21T10:28:02.798140"
+    },
+    {
+      "cluster_id": 3,
+      "center_lat": 51.53809,
+      "center_lon": 45.59577,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 51.53809,
+          "lon": 45.59577,
+          "distance": 2.0,
+          "name": "warhead",
+          "filename": "warhead_51.53809_45.59577_2.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "At the upper-left of the image there is a polygonal bermed enclosure with a clear perimeter and an access point from a road, containing several structures/pads inside\u2014consistent with an enclosed compound.",
+      "image_path": "../IMINT-Images/Warhead_Storage/warhead_found_51.520000_46.000000_R40.0km_T2.0km_gpt-4o-2024-08-06_1247-total-images_Nov-21-2025/cluster_analysis/cluster_3_51.538090_45.595770_2.00km.png",
+      "timestamp": "2025-11-21T10:28:22.342044"
+    },
+    {
+      "cluster_id": 4,
+      "center_lat": 51.75514,
+      "center_lon": 45.68239,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 51.75514,
+          "lon": 45.68239,
+          "distance": 2.0,
+          "name": "warhead",
+          "filename": "warhead_51.75514_45.68239_2.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. At the lower center there is a polygonal, straight\u2011edged perimeter surrounding an oval track/installation, with an access road leading in\u2014indicative of an enclosed compound (fence or berm).",
+      "image_path": "../IMINT-Images/Warhead_Storage/warhead_found_51.520000_46.000000_R40.0km_T2.0km_gpt-4o-2024-08-06_1247-total-images_Nov-21-2025/cluster_analysis/cluster_4_51.755140_45.682390_2.00km.png",
+      "timestamp": "2025-11-21T10:28:38.134940"
+    },
+    {
+      "cluster_id": 5,
+      "center_lat": 51.55617,
+      "center_lon": 45.48028,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 51.55617,
+          "lon": 45.48028,
+          "distance": 2.0,
+          "name": "warhead",
+          "filename": "warhead_51.55617_45.48028_2.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "At the right edge there is a large multi-sided enclosure with clear perimeter berms/ditches and internal paths or structures, indicating an enclosed compound.",
+      "image_path": "../IMINT-Images/Warhead_Storage/warhead_found_51.520000_46.000000_R40.0km_T2.0km_gpt-4o-2024-08-06_1247-total-images_Nov-21-2025/cluster_analysis/cluster_5_51.556170_45.480280_2.00km.png",
+      "timestamp": "2025-11-21T10:28:47.967925"
+    },
+    {
+      "cluster_id": 6,
+      "center_lat": 51.71896,
+      "center_lon": 45.79789,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 51.71896,
+          "lon": 45.79789,
+          "distance": 2.0,
+          "name": "warhead",
+          "filename": "warhead_51.71896_45.79789_2.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the lower portion of the image there is a large polygonal ring of earthworks forming a continuous boundary that encloses an area, consistent with an enclosed compound or fortified site.",
+      "image_path": "../IMINT-Images/Warhead_Storage/warhead_found_51.520000_46.000000_R40.0km_T2.0km_gpt-4o-2024-08-06_1247-total-images_Nov-21-2025/cluster_analysis/cluster_6_51.718960_45.797890_2.00km.png",
+      "timestamp": "2025-11-21T10:29:00.563351"
+    },
+    {
+      "cluster_id": 7,
+      "center_lat": 51.79131,
+      "center_lon": 46.05775,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 51.79131,
+          "lon": 46.05775,
+          "distance": 2.0,
+          "name": "warhead",
+          "filename": "warhead_51.79131_46.05775_2.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. In the upper-right portion of the image there is a polygonal area with a distinct perimeter boundary and internal buildings/roads, indicative of an enclosed compound (e.g., a fortified or facility enclosure).",
+      "image_path": "../IMINT-Images/Warhead_Storage/warhead_found_51.520000_46.000000_R40.0km_T2.0km_gpt-4o-2024-08-06_1247-total-images_Nov-21-2025/cluster_analysis/cluster_7_51.791310_46.057750_2.00km.png",
+      "timestamp": "2025-11-21T10:29:12.896923"
+    },
+    {
+      "cluster_id": 8,
+      "center_lat": 51.71896,
+      "center_lon": 46.08662,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 51.71896,
+          "lon": 46.08662,
+          "distance": 2.0,
+          "name": "warhead",
+          "filename": "warhead_51.71896_46.08662_2.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. Near the center-right of the image, slightly above the road intersection, there is a polygonal (roughly pentagonal) area with a distinct perimeter boundary and a structure inside, indicating an enclosed compound.",
+      "image_path": "../IMINT-Images/Warhead_Storage/warhead_found_51.520000_46.000000_R40.0km_T2.0km_gpt-4o-2024-08-06_1247-total-images_Nov-21-2025/cluster_analysis/cluster_8_51.718960_46.086620_2.00km.png",
+      "timestamp": "2025-11-21T10:29:24.966761"
+    },
+    {
+      "cluster_id": 9,
+      "center_lat": 51.53809,
+      "center_lon": 45.68239,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 51.53809,
+          "lon": 45.68239,
+          "distance": 2.0,
+          "name": "warhead",
+          "filename": "warhead_51.53809_45.68239_2.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. There are multiple areas with clear perimeter boundaries: a small square enclosure around a building in the lower-left/center-left area, and a larger bright-walled, geometric enclosure at the bottom center. These have distinct, continuous boundary lines separating them from the surroundings, indicating enclosed compounds.",
+      "image_path": "../IMINT-Images/Warhead_Storage/warhead_found_51.520000_46.000000_R40.0km_T2.0km_gpt-4o-2024-08-06_1247-total-images_Nov-21-2025/cluster_analysis/cluster_9_51.538090_45.682390_2.00km.png",
+      "timestamp": "2025-11-21T10:29:42.433922"
+    },
+    {
+      "cluster_id": 10,
+      "center_lat": 51.48383,
+      "center_lon": 46.25986,
+      "radius_km": 0.5,
+      "num_detections": 1,
+      "detections": [
+        {
+          "lat": 51.48383,
+          "lon": 46.25986,
+          "distance": 2.0,
+          "name": "warhead",
+          "filename": "warhead_51.48383_46.25986_2.0km.png"
+        }
+      ],
+      "compound_present": "yes",
+      "explanation": "Yes. On the right side of the image there is a large rectangular area with a continuous perimeter embankment or wall and a surrounding road, containing multiple buildings laid out inside\u2014clear signs of an enclosed compound with defined boundaries and limited entry points.",
+      "image_path": "../IMINT-Images/Warhead_Storage/warhead_found_51.520000_46.000000_R40.0km_T2.0km_gpt-4o-2024-08-06_1247-total-images_Nov-21-2025/cluster_analysis/cluster_10_51.483830_46.259860_2.00km.png",
+      "timestamp": "2025-11-21T10:29:55.031809"
+    }
+  ],
+  "timestamp": "2025-11-21T10:29:55.237476"
+}
