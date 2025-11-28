@@ -1,6 +1,6 @@
 {
   "last_processed": 1247,
-  "saved_in_this_run": 11,
+  "saved_in_this_run": 14,
   "total": 1247,
   "detected_coordinates": [
     {
@@ -79,8 +79,134 @@
       "explanation": "The image shows a structure with multiple layers of fencing, which appear as concentric dark lines around a central area. This is indicative of a secured facility. Additionally, there are buildings within the fenced area that could serve as entrances to underground bunkers or storage facilities. The presence of these features suggests the potential for nuclear material storage.",
       "index": 1164,
       "timestamp": "2025-11-21T10:06:23.793037"
+    },
+    {
+      "latitude": 51.284863349431156,
+      "longitude": 46.31760736768584,
+      "explanation": "The image shows an enclosure with concentric circular patterns, which could indicate fencing or similar structures.",
+      "index": 155,
+      "timestamp": "2025-11-21T13:19:22.843335"
+    },
+    {
+      "latitude": 51.42956282670429,
+      "longitude": 46.519721147122276,
+      "explanation": "The image shows an enclosure with concentric circular fencing in the center of the field.",
+      "index": 444,
+      "timestamp": "2025-11-21T13:43:30.616346"
+    },
+    {
+      "latitude": 51.483825130681716,
+      "longitude": 46.230987176498786,
+      "explanation": "The image shows an enclosure with concentric circular fencing near the center-left, which is characteristic of a secure area.",
+      "index": 551,
+      "timestamp": "2025-11-21T13:53:55.009184"
+    },
+    {
+      "latitude": 51.50191256534086,
+      "longitude": 45.68239263231416,
+      "explanation": "The image shows an enclosure with concentric circular features, which could indicate the presence of fencing or barriers.",
+      "index": 571,
+      "timestamp": "2025-11-21T13:55:21.394200"
+    },
+    {
+      "latitude": 51.52,
+      "longitude": 46.28873397062349,
+      "explanation": "The image shows an enclosure with concentric circular fencing in the lower right area, indicating the presence of such a structure.",
+      "index": 632,
+      "timestamp": "2025-11-21T14:32:11.725406"
+    },
+    {
+      "latitude": 51.53808743465915,
+      "longitude": 45.59577244112712,
+      "explanation": "The image shows an enclosure with multiple layers of concentric polygonal fencing, indicating a secured area.",
+      "index": 649,
+      "timestamp": "2025-11-21T14:33:18.058916"
+    },
+    {
+      "latitude": 51.53808743465915,
+      "longitude": 45.653519235251814,
+      "explanation": "The image shows an area with multiple structures arranged in a circular pattern, which is indicative of an enclosure surrounded by layers of concentric fencing. This pattern is often associated with military or secure facilities.",
+      "index": 651,
+      "timestamp": "2025-11-21T14:33:41.816996"
+    },
+    {
+      "latitude": 51.53808743465915,
+      "longitude": 45.68239263231416,
+      "explanation": "The image shows an enclosure with layers of concentric polygonal fencing, which is a characteristic feature of certain secure facilities.",
+      "index": 652,
+      "timestamp": "2025-11-21T14:33:46.116525"
+    },
+    {
+      "latitude": 51.53808743465915,
+      "longitude": 45.8267596176259,
+      "explanation": "The image shows an enclosure with a structure inside, surrounded by a clear fence or boundary. This setup is typical of areas requiring security, such as military or sensitive installations.",
+      "index": 657,
+      "timestamp": "2025-11-21T14:34:07.726117"
+    },
+    {
+      "latitude": 51.53808743465915,
+      "longitude": 45.85563301468825,
+      "explanation": "The image shows an enclosure on the right side, surrounded by layers of fencing, which appears to be polygonal. This suggests a secured area, possibly for sensitive or important assets.",
+      "index": 658,
+      "timestamp": "2025-11-21T14:34:12.641052"
+    },
+    {
+      "latitude": 51.55617486931828,
+      "longitude": 45.48027885287772,
+      "explanation": "The image shows an enclosure with a polygonal shape, surrounded by layers of fencing, which fits the description of concentric circular or polygonal fencing.",
+      "index": 685,
+      "timestamp": "2025-11-21T14:36:09.445958"
+    },
+    {
+      "latitude": 51.62852460795486,
+      "longitude": 45.76901282350121,
+      "explanation": "The image shows a circular feature on the right side, which appears to be an enclosure surrounded by concentric circular patterns. This suggests the presence of fencing or similar structures.",
+      "index": 851,
+      "timestamp": "2025-11-21T14:49:02.103307"
+    },
+    {
+      "latitude": 51.646612042613995,
+      "longitude": 45.59577244112712,
+      "explanation": "The image shows an area with concentric circular features, which could indicate an enclosure surrounded by layers of fencing. These features are located in the upper right section of the image.",
+      "index": 883,
+      "timestamp": "2025-11-21T14:51:08.569903"
+    },
+    {
+      "latitude": 51.71896178125057,
+      "longitude": 45.797886220563555,
+      "explanation": "The image shows an enclosure with multiple layers of concentric polygonal fencing, which is visible in the lower part of the image. This pattern is indicative of a secured area.",
+      "index": 1032,
+      "timestamp": "2025-11-21T15:02:04.017912"
+    },
+    {
+      "latitude": 51.71896178125057,
+      "longitude": 46.086620191187045,
+      "explanation": "The image shows an enclosure with a polygonal shape, surrounded by layers of fencing, located near the center-right of the image. This matches the description of concentric circular or polygonal fencing.",
+      "index": 1042,
+      "timestamp": "2025-11-21T15:02:53.870923"
+    },
+    {
+      "latitude": 51.75513665056885,
+      "longitude": 45.68239263231416,
+      "explanation": "The image shows an enclosure with concentric polygonal fencing, which is a typical feature of secure facilities.",
+      "index": 1093,
+      "timestamp": "2025-11-21T15:25:13.444627"
+    },
+    {
+      "latitude": 51.75513665056885,
+      "longitude": 46.230987176498786,
+      "explanation": "The image shows an area with two distinct circular formations that appear to be surrounded by concentric layers, suggesting the presence of an enclosure with circular fencing.",
+      "index": 1112,
+      "timestamp": "2025-11-21T15:26:51.874778"
+    },
+    {
+      "latitude": 51.79131151988714,
+      "longitude": 46.0577467941247,
+      "explanation": "The image shows an enclosure with multiple layers of concentric polygonal fencing in the upper right section. This pattern is indicative of a secured area.",
+      "index": 1164,
+      "timestamp": "2025-11-21T15:30:37.462239"
     }
   ],
-  "detected_count": 11,
-  "timestamp": "2025-11-21T10:15:57.572063"
+  "detected_count": 29,
+  "timestamp": "2025-11-21T16:54:25.085765"
 }
