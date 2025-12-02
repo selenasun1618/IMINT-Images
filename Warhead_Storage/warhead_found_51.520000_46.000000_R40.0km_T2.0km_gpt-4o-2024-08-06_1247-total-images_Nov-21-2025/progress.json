@@ -117,13 +117,6 @@
     },
     {
       "latitude": 51.53808743465915,
-      "longitude": 45.59577244112712,
-      "explanation": "The image shows an enclosure with multiple layers of concentric polygonal fencing, indicating a secured area.",
-      "index": 649,
-      "timestamp": "2025-11-21T14:33:18.058916"
-    },
-    {
-      "latitude": 51.53808743465915,
       "longitude": 45.653519235251814,
       "explanation": "The image shows an area with multiple structures arranged in a circular pattern, which is indicative of an enclosure surrounded by layers of concentric fencing. This pattern is often associated with military or secure facilities.",
       "index": 651,
@@ -131,31 +124,10 @@
     },
     {
       "latitude": 51.53808743465915,
-      "longitude": 45.68239263231416,
-      "explanation": "The image shows an enclosure with layers of concentric polygonal fencing, which is a characteristic feature of certain secure facilities.",
-      "index": 652,
-      "timestamp": "2025-11-21T14:33:46.116525"
-    },
-    {
-      "latitude": 51.53808743465915,
       "longitude": 45.8267596176259,
       "explanation": "The image shows an enclosure with a structure inside, surrounded by a clear fence or boundary. This setup is typical of areas requiring security, such as military or sensitive installations.",
       "index": 657,
       "timestamp": "2025-11-21T14:34:07.726117"
-    },
-    {
-      "latitude": 51.53808743465915,
-      "longitude": 45.85563301468825,
-      "explanation": "The image shows an enclosure on the right side, surrounded by layers of fencing, which appears to be polygonal. This suggests a secured area, possibly for sensitive or important assets.",
-      "index": 658,
-      "timestamp": "2025-11-21T14:34:12.641052"
-    },
-    {
-      "latitude": 51.55617486931828,
-      "longitude": 45.48027885287772,
-      "explanation": "The image shows an enclosure with a polygonal shape, surrounded by layers of fencing, which fits the description of concentric circular or polygonal fencing.",
-      "index": 685,
-      "timestamp": "2025-11-21T14:36:09.445958"
     },
     {
       "latitude": 51.62852460795486,
@@ -172,41 +144,13 @@
       "timestamp": "2025-11-21T14:51:08.569903"
     },
     {
-      "latitude": 51.71896178125057,
-      "longitude": 45.797886220563555,
-      "explanation": "The image shows an enclosure with multiple layers of concentric polygonal fencing, which is visible in the lower part of the image. This pattern is indicative of a secured area.",
-      "index": 1032,
-      "timestamp": "2025-11-21T15:02:04.017912"
-    },
-    {
-      "latitude": 51.71896178125057,
-      "longitude": 46.086620191187045,
-      "explanation": "The image shows an enclosure with a polygonal shape, surrounded by layers of fencing, located near the center-right of the image. This matches the description of concentric circular or polygonal fencing.",
-      "index": 1042,
-      "timestamp": "2025-11-21T15:02:53.870923"
-    },
-    {
-      "latitude": 51.75513665056885,
-      "longitude": 45.68239263231416,
-      "explanation": "The image shows an enclosure with concentric polygonal fencing, which is a typical feature of secure facilities.",
-      "index": 1093,
-      "timestamp": "2025-11-21T15:25:13.444627"
-    },
-    {
       "latitude": 51.75513665056885,
       "longitude": 46.230987176498786,
       "explanation": "The image shows an area with two distinct circular formations that appear to be surrounded by concentric layers, suggesting the presence of an enclosure with circular fencing.",
       "index": 1112,
       "timestamp": "2025-11-21T15:26:51.874778"
-    },
-    {
-      "latitude": 51.79131151988714,
-      "longitude": 46.0577467941247,
-      "explanation": "The image shows an enclosure with multiple layers of concentric polygonal fencing in the upper right section. This pattern is indicative of a secured area.",
-      "index": 1164,
-      "timestamp": "2025-11-21T15:30:37.462239"
     }
   ],
-  "detected_count": 29,
+  "detected_count": 21,
   "timestamp": "2025-11-21T16:54:25.085765"
 }
